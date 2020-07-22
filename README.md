@@ -2,7 +2,7 @@
    <img width="200" src="images/logo.png">
 </p>
 
-## &#160;
+## Contents
 
 1. [Getting started](#getting-started)
    1. [Setting up DialogFlow](#setting-up-dialogflow)
