@@ -7,7 +7,7 @@
 ### Setting up DialogFlow
 
 Follow the guide at https://cloud.google.com/dialogflow/docs/quick/setup
-(available also in the file `dialogflow_quickstart.html`) in order to
+(available also in the file [`dialogflow_quickstart.md`](dialogflow_quickstart.md)) in order to
 set up the connection between the Python client and DialogFlow.
 Briefly:
 
