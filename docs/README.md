@@ -1,12 +1,14 @@
 <p align="center"> 
-   <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
+  <a href='https://davidelanz.github.io/nlp-contextual-meaning/'>
+    <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
+  </a>
+  <br>
+  <a href='https://nlp-contextual-meaning.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/nlp-contextual-meaning/badge/?version=latest' alt='Documentation Status' />
+  </a>
 </p>
 
 ---
-
-<a href='https://nlp-contextual-meaning.readthedocs.io/en/latest/?badge=latest'>
-    <img src='https://readthedocs.org/projects/nlp-contextual-meaning/badge/?version=latest' alt='Documentation Status' />
-</a>
 
 Website: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
@@ -96,11 +98,11 @@ order to train the DialogFlow agent, you have to:
 
 1. Upload the 21 `.json` files created to DialogFlow:
 
-    <img width="600" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/upload_intents.png?raw=true">
+<img width="600" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/upload_intents.png?raw=true">
 
 1. At the end, you should have a situation like the one here in the picture:
 
-    <img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/intents_uploaded.png?raw=true">
+<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/intents_uploaded.png?raw=true">
 
 ### Run a demo
 
@@ -148,6 +150,7 @@ generated are in **Italian**, but the system can be easily adapted
 to other languages given a dataset as follows:
 
 <!--table-->
+
 | INTENT NAME             | PARENT'S INTENT | IS PARENT |            | [LANGUAGE]            |
 | ----------------------- | --------------- | --------- | ---------- | --------------------- |
 | Default Fallback Intent |                 |           | answer     | [DEFAULT_ANSWER]      |
@@ -159,6 +162,7 @@ to other languages given a dataset as follows:
 | &#160;                  |                 |           |            |                       |
 | [INTENT_2]              |                 |           | user-input | [TRAINING_SENTENCE_1] |
 | ...                     |                 |           | ...        | ...                   |
+
 <!--endtable-->
 
 The dataset has to be stored in `.csv` format with `;` separator. For example:
