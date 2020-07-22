@@ -7,6 +7,18 @@ import dialogflow_v2 as dialogflow
 
 
 class Agent():
+    """The ``Agent`` object provides the methods to connect to
+    DialogFlow APIs and perform basic intent queries.
+
+    Attributes
+    ----------
+    language : string
+        Agent's language code (e.g. ``"en-US"``).
+    project_id : string
+        DialogFlow's API project ID.
+    session_client : dialogflow.SessionsClient
+        SessionsClient object to manage API sessions.
+    """
 
     def __init__(self):
         self.language = "it"
@@ -31,7 +43,26 @@ class Agent():
         logging.debug('session client created')
 
     def get_intent_score(self, sentence):
-        """Returns the result of detect intent with texts as inputs."""
+        """Given a sentence, detects a related intent with a certain
+        confidence score.
+
+        Parameters
+        ----------
+        sentence : string
+            Input sentence to be processed
+
+        Returns
+        ----------
+        string, float
+            A string containing the detected intent and the correspondent
+            confidence score.
+
+        Examples
+        --------
+        >>> agent = Agent()
+        >>> agent.get_intent_score("It's hot")
+        ("overheat", 0.8965118527412415)
+        """
         # Create Text and Query Input objects
         text_input = dialogflow.types.TextInput(
             text=sentence, language_code=self.language)

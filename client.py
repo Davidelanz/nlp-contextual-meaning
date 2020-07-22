@@ -9,10 +9,50 @@ from agent import Agent
 
 class Client:
     """[summary]
+
+    Attributes
+    ----------
+    agent : Agent
+        DialogFlow agent.
+    context : dict
+        Dictionary containing context table and reactions information.
+        For example:
+
+        .. code-block:: json
+        
+            {
+                "reactions": [
+                    "I'll open the window",
+                    "I'll bring you a bottle of water",
+                    "I'll turn on the TV"
+                ],
+                "queries": [
+                    "Should I open the window?",
+                    "Should I bring you a bottle of water?",
+                    "Should I turn on the TV?"
+                ],
+                "default": ["I am sorry, I can't do a lot for you."],
+                "r1": {
+                    "overheat": 0.1,
+                    "bug-in-room": 0.07,
+                    "boredom": 0
+                },
+                "r2": {
+                    "overheat": 0.02,
+                    "bug-in-room": 0.02,
+                    "boredom": 0
+                },
+                "r3": {
+                    "overheat": 0,
+                    "bug-in-room": 0,
+                    "boredom": 0.07
+                }
+            }
+
+
     """
 
     def __init__(self):
-        """Initializes the client"""
         # Set logging file
         try:
             os.makedirs("logs")

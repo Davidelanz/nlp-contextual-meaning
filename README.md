@@ -1,5 +1,5 @@
 <p align="center"> 
-   <img width="200" src="images/logo.png">
+   <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
 </p>
 
 ## Contents
@@ -24,20 +24,24 @@ Briefly:
 
 1. Start creating a new DialogFlow agent and the related Google project:
 
-<img width="500" src="images/create_agent.png">
+<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/create_agent.png?raw=true">
 
 Now, you should have an empty agent with the only `Default` intent:
 
-<img width="500" src="images/empty_agent.png">
+<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/empty_agent.png?raw=true">
 
 2. Go to tour [Google Cloud Platform](https://console.cloud.google.com/)
    console. You should find the related project:
 
-<img width="700" src="images/googlecloud_project.png">
+<img width="700" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/googlecloud_project.png?raw=true">
 
 3. Following the instructions in
    https://cloud.google.com/dialogflow/docs/quick/setup, create a Service
    Account fitting the Dialogflow Agent and download the JSON key.
+
+   > **IMPORTANT:** the Service Account has to be a **"DialogFlow API Admin"**
+   > one, not a "DialogFlow API Client" or others. Admin rights are
+   > needed for [Botium validation](#use-botium-for-identification-accuracy)
 
 4. The JSON key shoud be saved in the root folder of this project
    (the same as this README and the `client.py` file) and
@@ -84,23 +88,23 @@ order to train the DialogFlow agent, you have to:
 
 1. Convert the CSV data into JSON data by running:
 
-```linux
+```
 python dataset/csv_to_json.py
 ```
 
 2. Upload the 21 `.json` files created to DialogFlow:
 
-<img width="600" src="images/upload_intents.png">
+<img width="600" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/upload_intents.png?raw=true">
 
 3. At the end, you should have a situation like the one here in the picture:
 
-<img width="500" src="images/intents_uploaded.png">
+<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/intents_uploaded.png?raw=true">
 
 ### Run a demo
 
 To simply test the agent you can run the `agent.py` file as follows:
 
-```linux
+```
 python agent.py -s "Ho davvero caldo"
 ```
 
@@ -113,7 +117,7 @@ from the sentence "Ho davvero caldo" with a confidence of almost 90%.
 
 To run and test the client:
 
-```linux
+```
 python client.py
 ```
 
@@ -214,14 +218,120 @@ example dataset we just saw we could have:
 }
 ```
 
+## Use [Botium](https://github.com/codeforequity-at/botium-connector-dialogflow) for identification accuracy
+
+### Setting up Botium
+
+Requirements:
+
+- Node.js (`sudo apt-get install nodejs`)
+- NPM (`sudo apt-get install npm`)
+
+We will need Botium CLI:
+
+``` 
+npm install -g botium-cli
+npm install -g botium-connector-dialogflow
+botium-cli init
+```
+
+Then, create a file `botium.json` in the working directory and add the
+Google credentials for accessing your Dialogflow agent. 
+This [article](https://chatbotsmagazine.com/3-steps-setup-automated-testing-for-google-assistant-and-dialogflow-de42937e57c6)
+shows how to retrieve all those settings 
+(you can find them in the `google_key.json` file as well).
+
+``` json
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "<whatever>",
+      "CONTAINERMODE": "dialogflow",
+      "DIALOGFLOW_PROJECT_ID": "<google project id>",
+      "DIALOGFLOW_CLIENT_EMAIL": "<service credentials email>",
+      "DIALOGFLOW_PRIVATE_KEY": "<service credentials private key>"
+    }
+  }
+}
+```
+
+To check the configuration, run the emulator (Botium CLI required)
+to bring up a chat interface in your terminal window:
+
+```
+botium-cli emulator
+```
+
+Now that botium setup is ready, it’s time to run the benchmark. The 
+`botium-cli nlpanalytics` command runs NLP analytics with
+on of these two algorithms:
+
+- `validate` - run one-shot training and testing of NLP engine
+- `k-fold` - run k-fold training and testing of NLP engine
+
+See this 
+[article](https://chatbotslife.com/tutorial-benchmark-your-chatbot-on-watson-dialogflow-wit-ai-and-more-92885b4fbd48)
+for further information.
+
+### Prepare the data
+
+We can extract the data - intents and utterances (user examples) - 
+from our already-trained DialogFlow automatically:
+```
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/google_key.json"
+botium-cli nlpextract --config botium.json --convos dataset_botium --verbose
+```
+
+This command will write several text files to the ` dataset_botium ` directory
+with filename pattern `intentname.utterances.txt` 
+(see [Botium Wiki](https://botium.atlassian.net/wiki/spaces/BOTIUM/pages/48922633/Composing+in+Text+files)).
+First line of the file contains the intent name, following lines are the 
+utterances (user examples). For example:
+
+```
+temperature
+Is it me or it is hot here?
+What's the current temperature?
+What’s the current temperature?
+```
+
+### Validate data
+
+To validate the dataset with wich we trained our DialogFlow agent, we 
+run the stratified k-fold cross-validation for the data against
+the DialogFlow agent (with k=5, meaning one fifth is used for testing,
+four fifth are used for training):
+
+``` 
+botium-cli nlpanalytics k-fold -k 5 --config botium.json
+```
+
+Botium will create a separate DialogFlow agent workspace for all test runs
+and clean it up afterwards. The original workspace - if existing - won’t 
+be affected. 
+
+The benchmark takes some time, and the results are printed out when ready -
+for each of the 5 rounds and the total average over all rounds:
+
+``` 
+############# Summary #############
+K-Fold Round 1:
+```
+
+> Note that Botium supports 
+> [other platforms](https://botium.atlassian.net/wiki/spaces/BOTIUM/pages/360553/Botium+Connectors).
+> It is possible then to compare
+> the accuracies of these platform given a certain dataset.
+
 ## References
 
-- Lanza, Menicatti, Sgorbissa. ``Abductive Recognition of Context-dependent
+- Lanza, Menicatti, Sgorbissa. 
+  "Abductive Recognition of Context-dependent
   Utterances in Human-robot Interaction,'' in _2020 IEEE/RSJ International_
   _Conference on Intelligent Robots and Systems (IROS)_, Las Vegas, USA.
 
-- Lanza. 
-  ``Context-dependent meanings recognition in human-robot interaction'',
-  *Bachelor's Thesis*, University of Genoa, 2018
+- Lanza.
+  "Context-dependent meanings recognition in human-robot interaction'',
+  _Bachelor's Thesis_, University of Genoa, 2018
   (**in italian**)
-  [[pdf](references/Lanza2018_BachelorThesis_IT.pdf)] 
+  [[pdf](references/Lanza2018_BachelorThesis_IT.pdf)]

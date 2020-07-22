@@ -1,6 +1,15 @@
 __pycache__/
 .vscode/
-logs/
+docs/_build/
+
 0.**/
-google_key.json
+
+logs/
 dataset_json/
+dataset_botium/
+node_modules/
+
+botium.json
+google_key.json
+package-lock.json
+
