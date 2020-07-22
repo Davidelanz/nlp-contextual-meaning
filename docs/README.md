@@ -2,13 +2,13 @@
    <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
 </p>
 
-___
+---
 
 Website: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
 **Documentation**: [nlp-contextual-meaning.readthedocs.io](https://nlp-contextual-meaning.readthedocs.io/)
 
-___
+---
 
 ## Getting started
 
@@ -21,18 +21,18 @@ Briefly:
 
 1. Start creating a new DialogFlow agent and the related Google project:
 
-<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/create_agent.png?raw=true">
+   <img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/create_agent.png?raw=true">
 
-Now, you should have an empty agent with the only `Default` intent:
+   Now, you should have an empty agent with the only `Default` intent:
 
-<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/empty_agent.png?raw=true">
+   <img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/empty_agent.png?raw=true">
 
-2. Go to tour [Google Cloud Platform](https://console.cloud.google.com/)
+1. Go to tour [Google Cloud Platform](https://console.cloud.google.com/)
    console. You should find the related project:
 
-<img width="700" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/googlecloud_project.png?raw=true">
+    <img width="700" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/googlecloud_project.png?raw=true">
 
-3. Following the instructions in
+1. Following the instructions in
    [https://cloud.google.com/dialogflow/docs/quick/setup](https://cloud.google.com/dialogflow/docs/quick/setup),
    create a Service Account fitting the Dialogflow Agent and
    download the JSON key.
@@ -41,26 +41,26 @@ Now, you should have an empty agent with the only `Default` intent:
    > one, not a "DialogFlow API Client" or others. Admin rights are
    > needed for [Botium validation](#use-botium-for-identification-accuracy)
 
-4. The JSON key shoud be saved in the root folder of this project
+1. The JSON key shoud be saved in the root folder of this project
    (the same as this README and the `client.py` file) and
    called `google_key.json`. It shoud present the following fields:
 
-```json
-{
-  "type": "service_account",
-  "project_id": ,
-  "private_key_id": ,
-  "private_key": ,
-  "client_email": ,
-  "client_id": ,
-  "auth_uri": ,
-  "token_uri": ,
-  "auth_provider_x509_cert_url": ,
-  "client_x509_cert_url":
-}
-```
+   ```json
+   {
+     "type": "service_account",
+     "project_id": ,
+     "private_key_id": ,
+     "private_key": ,
+     "client_email": ,
+     "client_id": ,
+     "auth_uri": ,
+     "token_uri": ,
+     "auth_provider_x509_cert_url": ,
+     "client_x509_cert_url":
+   }
+   ```
 
-5. Install and configure then your Google Cloud SDK
+1. Install and configure then your Google Cloud SDK
    (see [https://cloud.google.com/sdk/docs](https://cloud.google.com/sdk/docs)).
 
 ### The `settings.json` file
@@ -86,17 +86,17 @@ order to train the DialogFlow agent, you have to:
 
 1. Convert the CSV data into JSON data by running:
 
-```
-python dataset/csv_to_json.py
-```
+   ```
+   python dataset/csv_to_json.py
+   ```
 
-2. Upload the 21 `.json` files created to DialogFlow:
+1. Upload the 21 `.json` files created to DialogFlow:
 
-<img width="600" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/upload_intents.png?raw=true">
+    <img width="600" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/upload_intents.png?raw=true">
 
-3. At the end, you should have a situation like the one here in the picture:
+1. At the end, you should have a situation like the one here in the picture:
 
-<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/intents_uploaded.png?raw=true">
+    <img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/intents_uploaded.png?raw=true">
 
 ### Run a demo
 
@@ -143,7 +143,6 @@ Recall that the language of the dataset and hence the context table
 generated are in **Italian**, but the system can be easily adapted
 to other languages given a dataset as follows:
 
-
 <!--table-->
 | INTENT NAME             | PARENT'S INTENT | IS PARENT |            | [LANGUAGE]            |
 | ----------------------- | --------------- | --------- | ---------- | --------------------- |
@@ -157,7 +156,6 @@ to other languages given a dataset as follows:
 | [INTENT_2]              |                 |           | user-input | [TRAINING_SENTENCE_1] |
 | ...                     |                 |           | ...        | ...                   |
 <!--endtable-->
-
 
 The dataset has to be stored in `.csv` format with `;` separator. For example:
 
