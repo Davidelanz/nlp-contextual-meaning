@@ -2,4 +2,4 @@ sphinx
 sphinx_rtd_theme 
 recommonmark
 nltk
-dialogflow_v2
+dialogflow
