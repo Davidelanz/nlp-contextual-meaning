@@ -58,7 +58,18 @@ Now, you should have an empty agent with the only `Default` intent:
 
 ## The `settings.json` file
 
-(...)
+The `settings.json` file containts information about the CSVdataset file name,
+the folder in which export the intents in JSON format (from the CSV dataset)
+and the language code of the agent (e.g. `"it"`,`"en-US"` etc...).
+For the use case already available in this repository, we have:
+
+```json
+{
+  "dataset-file": "situations_it",
+  "intents-folder": "dataset_json",
+  "language": "it"
+}
+```
 
 ## Prepare the dataset
 
@@ -197,3 +208,15 @@ example dataset we just saw we could have:
   }
 }
 ```
+
+# References
+
+- Lanza, Menicatti, Sgorbissa. ``Abductive Recognition of Context-dependent
+  Utterances in Human-robot Interaction,'' in _2020 IEEE/RSJ International_
+  _Conference on Intelligent Robots and Systems (IROS)_, Las Vegas, USA.
+
+- Lanza. 
+  ``Context-dependent meanings recognition in human-robot interaction'',
+  *Bachelor's Thesis*, University of Genoa, 2018
+  (**in italian**)
+  [[pdf](references/Lanza2018_BachelorThesis_IT.pdf)] 
