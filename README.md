@@ -2,7 +2,7 @@
    <img width="200" src="images/logo.png">
 </p>
 
-# &#160;
+## &#160;
 
 1. [Getting started](#getting-started)
    1. [Setting up DialogFlow](#setting-up-dialogflow)
@@ -13,9 +13,9 @@
 1. [Change the language](#change-the-language)
 1. [References](#references)
 
-# Getting started
+## Getting started
 
-## Setting up DialogFlow
+### Setting up DialogFlow
 
 Follow the guide at https://cloud.google.com/dialogflow/docs/quick/setup
 (available also in the file [`dialogflow_quickstart.md`](dialogflow_quickstart.md)) in order to
@@ -61,7 +61,7 @@ Now, you should have an empty agent with the only `Default` intent:
 5. Install and configure then your Google Cloud SDK
    (see https://cloud.google.com/sdk/docs).
 
-## The `settings.json` file
+### The `settings.json` file
 
 The `settings.json` file containts information about the CSVdataset file name,
 the folder in which export the intents in JSON format (from the CSV dataset)
@@ -76,7 +76,7 @@ For the use case already available in this repository, we have:
 }
 ```
 
-## Prepare the dataset
+### Prepare the dataset
 
 A dataset of Italian sentences linked to 21 situations (85 sentences for
 each situations) is available at `situations_dataset_.csv`. In
@@ -96,7 +96,7 @@ python dataset/csv_to_json.py
 
 <img width="500" src="images/intents_uploaded.png">
 
-## Run a demo
+### Run a demo
 
 To simply test the agent you can run the `agent.py` file as follows:
 
@@ -109,7 +109,7 @@ The result would be something like
 This means the DialogFlow agent identified the intent `avere-caldo`
 from the sentence "Ho davvero caldo" with a confidence of almost 90%.
 
-# Client
+## Client
 
 To run and test the client:
 
@@ -135,7 +135,7 @@ Robot: accendo la televisione
 -----------------------------------------------
 ```
 
-# Change the language
+## Change the language
 
 Recall that the language of the dataset and hence the context table
 generated are in **Italian**, but the system can be easily adapted
@@ -214,7 +214,7 @@ example dataset we just saw we could have:
 }
 ```
 
-# References
+## References
 
 - Lanza, Menicatti, Sgorbissa. ``Abductive Recognition of Context-dependent
   Utterances in Human-robot Interaction,'' in _2020 IEEE/RSJ International_
