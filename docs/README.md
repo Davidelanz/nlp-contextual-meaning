@@ -111,7 +111,7 @@ The result would be something like
 This means the DialogFlow agent identified the intent `avere-caldo`
 from the sentence "Ho davvero caldo" with a confidence of almost 90%.
 
-## Client
+## Test the client
 
 To run and test the client:
 
@@ -273,7 +273,7 @@ See this
 [article](https://chatbotslife.com/tutorial-benchmark-your-chatbot-on-watson-dialogflow-wit-ai-and-more-92885b4fbd48)
 for further information.
 
-### Prepare the data
+### Prepare the dataset
 
 We can extract the data - intents and utterances (user examples) -
 from our already-trained DialogFlow automatically:
@@ -296,7 +296,7 @@ What's the current temperature?
 What’s the current temperature?
 ```
 
-### Validate data
+### Validate dataset
 
 To validate the dataset with wich we trained our DialogFlow agent, we
 run the stratified k-fold cross-validation for the data against
