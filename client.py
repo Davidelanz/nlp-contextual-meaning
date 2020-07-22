@@ -8,7 +8,24 @@ from agent import Agent
 
 
 class Client:
-    """[summary]
+    """The ``Client`` class is the backends which receives the User
+    input and performs situation identification and reaction selection 
+    through an abductive inference process (given contextual data).
+
+    To start interacting with the client, run the following command:
+
+    .. code-block:: 
+
+        python client.py
+
+    An example interaction is:
+
+    .. code-block::
+
+        \INPUT > It's hot here
+        Robot: Should I open the window? (Y/N) n
+        Robot: I'll bring you a bottle of water.
+
 
     Attributes
     ----------
@@ -19,7 +36,7 @@ class Client:
         For example:
 
         .. code-block:: json
-        
+
             {
                 "reactions": [
                     "I'll open the window",
@@ -69,7 +86,25 @@ class Client:
             self.context = json.load(f)
 
     def std_situation_analysis(self, sentence):
-        """Given a sentence, simply returns DialogFlow identified intent"""
+        """Given a sentence, simply returns DialogFlow identified intent
+
+        Parameters
+        ----------
+        sentence : string
+            Input sentence to be processed
+
+        Returns
+        ----------
+        string
+            A string containing the detected situation.
+
+        Examples
+        --------
+        >>> client = Client()
+        >>> client.std_situation_analysis("It's hot")
+        "overheat"
+
+        """
         intent, score = self.agent.get_intent_score(sentence)
         logging.debug(
             f"standard analysis result: situation={intent} (score={score})")
@@ -77,7 +112,19 @@ class Client:
 
     def deep_situation_analysis(self, sentence):
         """Given a sentence, breaks it and send the single words to DialogFlow.
-        Then, it returns the intent of the word with the maximum score."""
+        Then, it returns the intent of the word with the maximum score.
+        
+        Parameters
+        ----------
+        sentence : string
+            Input sentence to be processed
+
+        Returns
+        ----------
+        string
+            A string containing the detected situation.
+        
+        """
         # Breaks the sentence into single words
         sentence = sentence.lower()
         sentence = sentence.split()
@@ -114,6 +161,22 @@ situation={out_intent[index]} (score={score})")
             return out_intent[index]
 
     def ask_question(self, question):
+        """Poses a Y/N question to the user.
+
+        Note
+        ---------
+        This function loops until the user does not give a Y/N answer.
+
+        Parameters
+        ----------
+        question : string
+            The question to be displayed.
+
+        Returns
+        ----------
+        string
+            Returns the answer as 'y' or 'n'.
+        """
         while True:
             answer = input(question + " (Y/N) ")
             logging.debug(question + " (Y/N) ")
@@ -128,6 +191,7 @@ situation={out_intent[index]} (score={score})")
                 logging.debug("  ***rispondere con Y o N***   ")
 
     def main(self):
+        """Starts the client workflow."""
         now = time.strftime("%Y%m%d-%H%M%S")
         logging.debug(f"client activity started at {now}")
 

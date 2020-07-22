@@ -7,7 +7,7 @@ import dialogflow_v2 as dialogflow
 
 
 class Agent():
-    """The ``Agent`` object provides the methods to connect to
+    """The ``Agent`` class provides the methods to connect to
     DialogFlow APIs and perform basic intent queries.
 
     Attributes
@@ -17,7 +17,7 @@ class Agent():
     project_id : string
         DialogFlow's API project ID.
     session_client : dialogflow.SessionsClient
-        SessionsClient object to manage API sessions.
+        SessionsClient class to manage API sessions.
     """
 
     def __init__(self):

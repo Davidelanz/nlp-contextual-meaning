@@ -2,19 +2,13 @@
    <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
 </p>
 
-> Documentation can be found at
-> [nlp-contextual-meaning.readthedocs.io](https://nlp-contextual-meaning.readthedocs.io/)
+___
 
-## Contents
+Website: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
-1. [Getting started](#getting-started)
-   1. [Setting up DialogFlow](#setting-up-dialogflow)
-   1. [The `settings.json` file](#the-settingsjson-file)
-   1. [Prepare the dataset](#prepare-the-dataset)
-   1. [Run a demo](#run-a-demo)
-1. [Client](#client)
-1. [Change the language](#change-the-language)
-1. [References](#references)
+**Documentation**: [nlp-contextual-meaning.readthedocs.io](https://nlp-contextual-meaning.readthedocs.io/)
+
+___
 
 ## Getting started
 
@@ -22,8 +16,6 @@
 
 Follow the guide at
 [https://cloud.google.com/dialogflow/docs/quick/setup](https://cloud.google.com/dialogflow/docs/quick/setup)
-(available also in the file
-[`dialogflow_quickstart.md`](https://github.com/Davidelanz/nlp-contextual-meaning/dialogflow_quickstart.md))
 in order to set up the connection between the Python client and DialogFlow.
 Briefly:
 
@@ -151,6 +143,8 @@ Recall that the language of the dataset and hence the context table
 generated are in **Italian**, but the system can be easily adapted
 to other languages given a dataset as follows:
 
+
+<!--table-->
 | INTENT NAME             | PARENT'S INTENT | IS PARENT |            | [LANGUAGE]            |
 | ----------------------- | --------------- | --------- | ---------- | --------------------- |
 | Default Fallback Intent |                 |           | answer     | [DEFAULT_ANSWER]      |
@@ -162,6 +156,8 @@ to other languages given a dataset as follows:
 | &#160;                  |                 |           |            |                       |
 | [INTENT_2]              |                 |           | user-input | [TRAINING_SENTENCE_1] |
 | ...                     |                 |           | ...        | ...                   |
+<!--endtable-->
+
 
 The dataset has to be stored in `.csv` format with `;` separator. For example:
 

@@ -1,11 +1,11 @@
-The `Agent` class
+The ``Agent`` class
 ----------------------
 
 .. autoclass:: agent.Agent
     :members:
 
 
-The `Client` class
+The ``Client`` class
 ----------------------
 
 .. autoclass:: client.Client
