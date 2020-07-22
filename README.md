@@ -2,6 +2,8 @@
    <img width="200" src="images/logo.png">
 </p>
 
+___
+
 1. [Getting started](#getting-started)
    1. [Setting up DialogFlow](#setting-up-dialogflow)
    1. [The `settings.json` file](#the-settingsjson-file)
