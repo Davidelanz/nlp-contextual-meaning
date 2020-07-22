@@ -1,0 +1,1898 @@
+﻿INTENT NAME;PARENT'S INTENT;IS PARENT?;;it
+Default Fallback Intent;;;answer;Non ho capito.
+;;;;
+avere-caldo;;;user-input;Che caldo!
+avere-caldo;;;user-input;Si muore di caldo
+avere-caldo;;;user-input;Che caldo!
+avere-caldo;;;user-input;Mamma ho caldo
+avere-caldo;;;user-input;Che caldo!
+avere-caldo;;;user-input;Che caldo!
+avere-caldo;;;user-input;Fa troppo caldo in questa stanza
+avere-caldo;;;user-input;ho caldo
+avere-caldo;;;user-input;Che caldo
+avere-caldo;;;user-input;Che caldo!
+avere-caldo;;;user-input;Ho caldo
+avere-caldo;;;user-input;si muore di caldo
+avere-caldo;;;user-input;Si muore di caldo
+avere-caldo;;;user-input;ho caldo
+avere-caldo;;;user-input;Ho caldo 
+avere-caldo;;;user-input;Fa molto caldo
+avere-caldo;;;user-input;Che caldo!
+avere-caldo;;;user-input;Sto sudando
+avere-caldo;;;user-input;Che afa
+avere-caldo;;;user-input;Fa caldissimo!
+avere-caldo;;;user-input;Papà fa molto caldo
+avere-caldo;;;user-input;Sto morendo di caldo
+avere-caldo;;;user-input;C'è molto calore.
+avere-caldo;;;user-input;Oggi fa molto caldo
+avere-caldo;;;user-input;la temperatura oggi è troppo alta
+avere-caldo;;;user-input;Che afa
+avere-caldo;;;user-input;Mi sto sciogliendo
+avere-caldo;;;user-input;La temperatura è alta
+avere-caldo;;;user-input;sembra di essere ai tropici
+avere-caldo;;;user-input;C'è afa
+avere-caldo;;;user-input;che afa
+avere-caldo;;;user-input;Sto svenendo dal caldo 
+avere-caldo;;;user-input;Percepisco una temperatura elevata
+avere-caldo;;;user-input;Oggi si muore!
+avere-caldo;;;user-input;Non si respira con questo caldo
+avere-caldo;;;user-input;Ci saranno quaranta gradi fuori
+avere-caldo;;;user-input;Troppo caldo, oggi!
+avere-caldo;;;user-input;Ceci ho caldo
+avere-caldo;;;user-input;Si soffoca!
+avere-caldo;;;user-input;Oggi la temperatura è molto alta.
+avere-caldo;;;user-input;Solo io ho caldo?
+avere-caldo;;;user-input;sto sudando eppure sono qui seduto
+avere-caldo;;;user-input;Minchia è un forno qua dentro
+avere-caldo;;;user-input;Sto sudando troppo
+avere-caldo;;;user-input;Mi sembra di essere nel deserto
+avere-caldo;;;user-input;sto sudando come un porco
+avere-caldo;;;user-input;Non si respira 
+avere-caldo;;;user-input;si muore qui!
+avere-caldo;;;user-input;Sto Sudando 
+avere-caldo;;;user-input;Questa stanza è torrida
+avere-caldo;;;user-input;Non si respira!
+avere-caldo;;;user-input;C'è afa
+avere-caldo;;;user-input;Quest'estate è particolarmente torrida
+avere-caldo;;;user-input;Senti che caldo?
+avere-caldo;;;user-input;Zia ho caldo
+avere-caldo;;;user-input;Ci vorrebbe un po' d'aria
+avere-caldo;;;user-input;Questo caldo mi sfianca.
+avere-caldo;;;user-input;Sto morendo di caldo
+avere-caldo;;;user-input;il calore qui oggi è insopportabile
+avere-caldo;;;user-input;Mi sto sciogliendo qua
+avere-caldo;;;user-input;Ho bisogno di una doccia
+avere-caldo;;;user-input;Questa stanza sembra un forno
+avere-caldo;;;user-input;sto facendo una sauna
+avere-caldo;;;user-input;Sto sudando
+avere-caldo;;;user-input;è un forno sta stanza
+avere-caldo;;;user-input;Si soffoca dal caldo 
+avere-caldo;;;user-input;Mi sento accaldato
+avere-caldo;;;user-input;Che afa!
+avere-caldo;;;user-input;Ogni fa troppo caldo
+avere-caldo;;;user-input;Il sole oggi è incandescente
+avere-caldo;;;user-input;Che caldo, quanti gradi saranno?
+avere-caldo;;;user-input;Mimmo fa caldo
+avere-caldo;;;user-input;Sembra di essere nel deserto
+avere-caldo;;;user-input;Oggi non respiro dal caldo.
+avere-caldo;;;user-input;Fa troppo caldo, mi sto sciogliendo
+avere-caldo;;;user-input;Non senti anche tu il caldo di questa giornata?
+avere-caldo;;;user-input;Fa troppo caldo qua
+avere-caldo;;;user-input;È proprio arrivata l'estate
+avere-caldo;;;user-input;Sto sudando moltissimo
+avere-caldo;;;user-input;non c'è un filo d'aria
+avere-caldo;;;user-input;Sto cuocendo 
+avere-caldo;;;user-input;ci saranno 500 gradi qui dentro
+avere-caldo;;;user-input;Quest' afa mi uccide
+avere-caldo;;;user-input;La stanza è calda
+avere-caldo;;;user-input;Grondo sudore!
+;;;;
+insetto;;;user-input;Che schifo, un insetto!
+insetto;;;user-input;Oddio c'è un insetto
+insetto;;;user-input;Oddio, c'è un insetto!
+insetto;;;user-input;Papà c'è un insetto enorme nella stanza
+insetto;;;user-input;Che schifo, un insetto!
+insetto;;;user-input;C'è un insetto in camera.
+insetto;;;user-input;Guarda un ragno!
+insetto;;;user-input;E'appena entrata una vespa
+insetto;;;user-input;Cos'è quello?
+insetto;;;user-input;C'é un insetto gigante!
+insetto;;;user-input;C'è un insetto
+insetto;;;user-input;è entrato un insetto
+insetto;;;user-input;Oddio c'è un animale! 
+insetto;;;user-input;che schifo una bestia alata
+insetto;;;user-input;Alfred, c'è un insetto
+insetto;;;user-input;Vedo un insetto 
+insetto;;;user-input;Da dove è entrato?
+insetto;;;user-input;Aiutami a far uscire questo insetto
+insetto;;;user-input;Aiuto c'è una cimice sul muro
+insetto;;;user-input;C'è un insetto!
+insetto;;;user-input;Oddio mamma c'è un insetto
+insetto;;;user-input;C'è un insetto sul muro
+insetto;;;user-input;Che schifo, è entrato un insetto.
+insetto;;;user-input;Occhio che c'è una bestia che gira
+insetto;;;user-input;Hai un calabrone sulla spalla
+insetto;;;user-input;Un insetto!
+insetto;;;user-input;Aprite le finestre che c'è un insetto
+insetto;;;user-input;Sento un ronzio
+insetto;;;user-input;sento un ronzio
+insetto;;;user-input;C'è un insetto che mi ronza intorno! 
+insetto;;;user-input;un insetto aiuto
+insetto;;;user-input;Che schifo, un insetto
+insetto;;;user-input;Un insetto è entrato in casa
+insetto;;;user-input;Servirebbe qualcosa per schiacciarlo.
+insetto;;;user-input;Prendi un giornale, è entrato un insetto
+insetto;;;user-input;Sono terrorizzata dall'ape che è appena entrata
+insetto;;;user-input;Aspetta, c'è un insetto!
+insetto;;;user-input;C'è un insetto dove sono io
+insetto;;;user-input;Vado a prendere l'ammazzamosche
+insetto;;;user-input;Chissà da dove è entrato l'insetto.
+insetto;;;user-input;Vado a prendere l'insetticida perchè è entrato un insetto
+insetto;;;user-input;Questa mosca che mi ronza nelle orecchie è insopportabile
+insetto;;;user-input;Che è quel coso?
+insetto;;;user-input;Dicono porti fortuna quell'insetto
+insetto;;;user-input;Qualcosa mi ha punto
+insetto;;;user-input;odio le zanzare
+insetto;;;user-input;C'è un insetto sul divano! 
+insetto;;;user-input;ci mancava che entrasse un insetto
+insetto;;;user-input;C'è un insetto fastidioso che mi gira intorno
+insetto;;;user-input;Che orrore, un insetto!
+insetto;;;user-input;Forse dovrei metterlo in salvo.
+insetto;;;user-input;Oddio è entrato un insetto
+insetto;;;user-input;è entrata una bestia in casa
+insetto;;;user-input;Che schifo, cos'è quel coso?
+insetto;;;user-input;Mamma c'è un insetto qui
+insetto;;;user-input;È entrato un insetto
+insetto;;;user-input;Voglio uscire, perché c'è un insetto.
+insetto;;;user-input;Ho paura sia entrata una bestia dalla finestra
+insetto;;;user-input;Questa zanzara che gira attorno mi ha appena punto
+insetto;;;user-input;È un insetto quello?
+insetto;;;user-input;Attenti a non calpestare l'insetto
+insetto;;;user-input;Odio gli insetti
+insetto;;;user-input;potrei essere punto
+insetto;;;user-input;C'è un insetto che vola! 
+insetto;;;user-input;oddio che è quel robo con le zampe
+insetto;;;user-input;Alfred, quell'oliva si muove
+insetto;;;user-input;C’è un insetto
+insetto;;;user-input;Che schifo!
+insetto;;;user-input;Apri la finestra che c'è un insetto
+insetto;;;user-input;Prendi la paletta, è entrata una mosca
+insetto;;;user-input;Uffa c'è un insetto!
+insetto;;;user-input;Aiuto c'è un insetto
+insetto;;;user-input;Cos'è quel coso che vola?
+insetto;;;user-input;Che spavento, c'è un insetto!
+insetto;;;user-input;C'è una brutta bestia che cammina sul muro
+insetto;;;user-input;Nella stanza c'e un calabrone
+insetto;;;user-input;Un bestio!
+insetto;;;user-input;Ma che insetto é quello?
+insetto;;;user-input;Aiuto un insetto
+insetto;;;user-input;ci sarà un nido di vespe qui fuori
+insetto;;;user-input;C'è una bestiaccia! 
+insetto;;;user-input;che schifo odio gli insetti
+insetto;;;user-input;C'è un insetto, Alfred passami un giornale 
+insetto;;;user-input;Sbaglio o quello è un insetto?
+insetto;;;user-input;Ci mancava solo questa!
+;;;;
+piante;;;user-input;Mi passi l'annaffiatoio
+piante;;;user-input;Le piante mi sembrano un po' secche
+piante;;;user-input;Le piante sono secche
+piante;;;user-input;Mamma bisogna annaffiare le piante, la terra è secca
+piante;;;user-input;Vanno annaffiate le piante
+piante;;;user-input;Le piante hanno sete.
+piante;;;user-input;Secondo te le piante hanno bisogno di essere bagnate?
+piante;;;user-input;Le piante del terrazzo hanno sete
+piante;;;user-input;Uh le piante sono secche
+piante;;;user-input;Quelle piante sono secche
+piante;;;user-input;Le piante stanno seccando
+piante;;;user-input;le piante sembrano secche
+piante;;;user-input;Ci sono le piante che hanno sete
+piante;;;user-input;povere piantine sembrano sciupate
+piante;;;user-input;Alfred, bisogna dare dell'acqua alle piante 
+piante;;;user-input;Credo che le piante necessitino l’acqua
+piante;;;user-input;Sembrano un pò giù.
+piante;;;user-input;Non dimentichiamoci di bagnare le piante
+piante;;;user-input;Annaffi tu le piante o lo faccio io?
+piante;;;user-input;Dobbiamo dar da bere alle piante
+piante;;;user-input;Farò bene ad annaffiare quelle piante
+piante;;;user-input;Le piante stanno morendo
+piante;;;user-input;Penso che le piante abbiano bisogno d'acqua.
+piante;;;user-input;Mi sa che mi sono dimenticata di bagnare le piante ieri
+piante;;;user-input;Bisogna che diamo dell'acqua alle piante
+piante;;;user-input;Stanno seccando le piante fuori?
+piante;;;user-input;È ancora presto per bagnare le piante
+piante;;;user-input;Speriamo piova
+piante;;;user-input;se non inizia a piovere, dovremo bagnare le piante
+piante;;;user-input;Bisogna bagnare le piante
+piante;;;user-input;è un po' che non piove, le piante saranno assetate
+piante;;;user-input;Le piante stanno soffrendo
+piante;;;user-input;Spero che le piante non siano seccate. Non sarebbe opportuno bagnarle?
+piante;;;user-input;Ancora un pò e saranno da buttare.
+piante;;;user-input;Ci sono le piante da bagnare
+piante;;;user-input;Hai già bagnato le piante?
+piante;;;user-input;Bisogna bagnare le piante
+piante;;;user-input;È meglio annaffiare le piante secche
+piante;;;user-input;Bisogna dare l'acqua alle piante
+piante;;;user-input;Vedo che le piante sono da bagnare.
+piante;;;user-input;Pensi sia un errore bagnare le piante ora che c'è ancora il sole?
+piante;;;user-input;La terra dei vasi fuori è troppo asciutta
+piante;;;user-input;Cavolo vanno bagnate le piante
+piante;;;user-input;Le piante hanno sete
+piante;;;user-input;L'anno prossimo compro solo piante grasse che sono meno impegnative
+piante;;;user-input;se non bagniamo subito le piante, moriranno
+piante;;;user-input;Le piante stanno patendo il caldo 
+piante;;;user-input;la terra delle piante sembra un po' secca
+piante;;;user-input;Se non diamo dell'acqua alle piante, moriranno
+piante;;;user-input;Vedo le piante fuori disidratate
+piante;;;user-input;Forse dovrei fare qualcosa.
+piante;;;user-input;La terra di quelle piante è secca
+piante;;;user-input;Dov'è l'innaffiatoio, è ora di annaffiare le piante
+piante;;;user-input;Le piante non hanno acqua
+piante;;;user-input;Devo annaffiare le piante assolutamente
+piante;;;user-input;La terra delle piante è secca
+piante;;;user-input;Bisogna annaffiare le piante.
+piante;;;user-input;Forse dovrei bagnare le piante
+piante;;;user-input;Bisogna innaffiare i geranei
+piante;;;user-input;Devo bagnare le piante
+piante;;;user-input;É stata una giornata afosa oggi devo bagnare le piante
+piante;;;user-input;La terra dei vasi è arida
+piante;;;user-input;con questo caldo le piante hanno bisogno di molta acqua
+piante;;;user-input;La terra delle piante è secca 
+piante;;;user-input;mi son dimenticata di innaffiare i fiori
+piante;;;user-input;Alfred, le piante mi sembrano secche
+piante;;;user-input;A meno che non piova, bisognerà bagnare le piante
+piante;;;user-input;Non sembrano molto in forma.
+piante;;;user-input;Quelle piante hanno sete
+piante;;;user-input;Bisogna bagnare le piante
+piante;;;user-input;Dobbiamo dare un po' d'acqua alle piante
+piante;;;user-input;C'è bisogno di annaffiare le piante fuori
+piante;;;user-input;Mi serve l'annaffiatoio
+piante;;;user-input;Nessuno ha annaffiato le piante.
+piante;;;user-input;Mi daresti una mano a bagnare le piante in giardino?
+piante;;;user-input;Le piante stanno appassendo per la mancanza d'acqua
+piante;;;user-input;Sbaglio o devo bagnare le piante?
+piante;;;user-input;Stasera bagneró le piante
+piante;;;user-input;L'impianto di irrigazione si è rotto
+piante;;;user-input;oh no, ieri sera ho scordato di bagnare le piante!
+piante;;;user-input;Le piante hanno bisogno di un po' d'acqua 
+piante;;;user-input;sarà meglio che prenda l'annaffiatoio
+piante;;;user-input;Alfred, le piante sono da bagnare
+piante;;;user-input;Dai da bere alle piante
+piante;;;user-input;E' un pò che non piove...
+;;;;
+meteo;;;user-input;Com'è fuori?
+meteo;;;user-input;Com'è la temperatura fuori?
+meteo;;;user-input;Che tempo fa oggi?
+meteo;;;user-input;Mamma che tempo fa?
+meteo;;;user-input;Com'è il tempo oggi?
+meteo;;;user-input;Che tempo fa fuori?
+meteo;;;user-input;Fa caldo fuori?
+meteo;;;user-input;Chissà se ora sta piovendo
+meteo;;;user-input;Com'è il tempo fuori?
+meteo;;;user-input;Speriamo ci sia bel tempo fuori
+meteo;;;user-input;L'aria è umida, chissà se sta piovendo
+meteo;;;user-input;che tempo c'è fuori?
+meteo;;;user-input;Chissà che tempo c'è fuori
+meteo;;;user-input;chissà che tempo fa fuori
+meteo;;;user-input;Chissà che tempo fa fuori
+meteo;;;user-input;Che tempo farà fuori?
+meteo;;;user-input;Chissà come è oggi?
+meteo;;;user-input;Speriamo ci sia bel tempo oggi
+meteo;;;user-input;Non so come sia il clima fuori
+meteo;;;user-input;C'è il sole fuori?
+meteo;;;user-input;Com'è il cielo?
+meteo;;;user-input;C'è il sole oggi?
+meteo;;;user-input;Secondo te oggi è nuvoloso o sereno?
+meteo;;;user-input;Com'è il tempo fuori?
+meteo;;;user-input;Hai mica visto se è nuvoloso ?
+meteo;;;user-input;Fuori piove?
+meteo;;;user-input;In casa fa fresco, chissà fuori
+meteo;;;user-input;Chissà se fuori fa freddo come in casa
+meteo;;;user-input;sono stato chiuso qui dentro così a lungo che non so più che tempo faccia fuori
+meteo;;;user-input;Ci sarà vento fuori? 
+meteo;;;user-input;ultimamente ha fatto bello, chissà se regge
+meteo;;;user-input;Sarà uscito il sole fuori? 
+meteo;;;user-input;Spero piova, dato che è tanto che non lo fa. Ma non ne sono certo
+meteo;;;user-input;Potrò fare una lavatrice?
+meteo;;;user-input;Hai visto le previsioni del tempo?
+meteo;;;user-input;Com'è il tempo?
+meteo;;;user-input;Quanti gradi ci sono fuori?
+meteo;;;user-input;Com'è il tempo?
+meteo;;;user-input;Come si sta fuori?
+meteo;;;user-input;Non so che tempo faccia fuori.
+meteo;;;user-input;Sta ancora piovendo o ha smesso?
+meteo;;;user-input;Non ho ancora capito che tempo fa oggi
+meteo;;;user-input;Fuori c'è il sole?
+meteo;;;user-input;Chissà se servirà una giacchetta stasera
+meteo;;;user-input;Per sicurezza ho sempre un ombrello in borsa
+meteo;;;user-input;pioverà o ci sarà il sole?
+meteo;;;user-input;Speriamo che fuori non piova
+meteo;;;user-input;vorrei sapere come vestirmi oggi
+meteo;;;user-input;Alfred, sta piovendo? 
+meteo;;;user-input;Non so quale sia il tempo fuori: spero sia bello
+meteo;;;user-input;Che tempo farà?
+meteo;;;user-input;Oggi dovrebbe piovere?
+meteo;;;user-input;C'è il sole?
+meteo;;;user-input;Com'è il tempo fuori?
+meteo;;;user-input;Mamma puoi dirmi com'è la giornata fuori
+meteo;;;user-input;Piove?
+meteo;;;user-input;Puoi dirmi com'è il tempo?
+meteo;;;user-input;Come è il tempo oggi?
+meteo;;;user-input;Non ho visto se fuori c'è il sole
+meteo;;;user-input;Com'è il meteo?
+meteo;;;user-input;Spero non piova,ho fatto il bucato
+meteo;;;user-input;Non so se portarmi una felpa oppure no
+meteo;;;user-input;speriamo che ci sia il sole
+meteo;;;user-input;Sarà bello fuori? 
+meteo;;;user-input;non si capisce se fa bello o se fa brutto
+meteo;;;user-input;Alfred, come è il tempo? 
+meteo;;;user-input;Bisognerebbe consultare un meteo per sapere il tempo fuori, o affacciarsi a una finestra
+meteo;;;user-input;Speriamo sia bello.
+meteo;;;user-input;Secondo te farà caldo fuori?
+meteo;;;user-input;Secondo te fa caldo fuori?
+meteo;;;user-input;Fa freddo fuori?
+meteo;;;user-input;Mamma è bel tempo?
+meteo;;;user-input;Fa freddo fuori?
+meteo;;;user-input;Devo controllare il tempo fuori.
+meteo;;;user-input;Fa freddo fuori o si sta bene anche senza giacca?
+meteo;;;user-input;E' sereno o coperto stamattina?
+meteo;;;user-input;Com'è fuori?
+meteo;;;user-input;Se c'è bel tempo potremmo uscire
+meteo;;;user-input;La statua segna tempo è diventata rosa
+meteo;;;user-input;dal rumore sembra ci sia una bufera
+meteo;;;user-input;Chissà se c'è freddo fuori
+meteo;;;user-input;potrò uscire senza ombrello oggi?
+meteo;;;user-input;Alfred, come è il cielo? 
+meteo;;;user-input;Dovrei affacciarmi per vedere il tempo che fa
+meteo;;;user-input;Sarà bello?
+;;;;
+aria-cambiare;;;user-input;Che puzza in questa stanza
+aria-cambiare;;;user-input;In questa stanza l'aria è viziata
+aria-cambiare;;;user-input;Apriamo un po' le finestre!
+aria-cambiare;;;user-input;Bisogna far circolare l'aria nella stanza
+aria-cambiare;;;user-input;C'è odore di chiuso
+aria-cambiare;;;user-input;Che aria pesante.
+aria-cambiare;;;user-input;In questa stanza manca l'aria
+aria-cambiare;;;user-input;C'è aria viziata
+aria-cambiare;;;user-input;Soffoco
+aria-cambiare;;;user-input;C'é aria viziata qui
+aria-cambiare;;;user-input;C'è poco ossigeno nella stanza
+aria-cambiare;;;user-input;c'è odore di chiuso
+aria-cambiare;;;user-input;C'è puzza
+aria-cambiare;;;user-input;qui si soffoca
+aria-cambiare;;;user-input;Non si respira qua dentro 
+aria-cambiare;;;user-input;Che puzza di chiuso. Apriamo le finestre
+aria-cambiare;;;user-input;Che odore di chiuso.
+aria-cambiare;;;user-input;C'è odore di chiuso
+aria-cambiare;;;user-input;C'è puzza nella stanza
+aria-cambiare;;;user-input;C'è aria viziata, apriamo le finestre?
+aria-cambiare;;;user-input;Va cambiata l'aria nella stanza
+aria-cambiare;;;user-input;Bisogna arieggiare
+aria-cambiare;;;user-input;Qui l'aria è da cambiare.
+aria-cambiare;;;user-input;C'è odore di chiuso
+aria-cambiare;;;user-input;Non c'è ossigeno
+aria-cambiare;;;user-input;Non si respira qua
+aria-cambiare;;;user-input;Fa un po' caldo in questa stanza
+aria-cambiare;;;user-input;C'è odore di chiuso
+aria-cambiare;;;user-input;anche se fa freddo apro la finestra, bisogna cambiare aria
+aria-cambiare;;;user-input;C'è aria viziata in camera
+aria-cambiare;;;user-input;qua va cambiata un po' l'aria
+aria-cambiare;;;user-input;Che odore di chiuso
+aria-cambiare;;;user-input;In questa stanza non si respira
+aria-cambiare;;;user-input;Un pò di aria nuova non guasterebbe.
+aria-cambiare;;;user-input;Non si respira qui
+aria-cambiare;;;user-input;Non si respira in questa stanza
+aria-cambiare;;;user-input;Apri la finestra!
+aria-cambiare;;;user-input;L'aria in questa stanza deve essere assolutamente cambiata
+aria-cambiare;;;user-input;Che puzza
+aria-cambiare;;;user-input;Bisogna cambiare l'aria.
+aria-cambiare;;;user-input;Non si respira
+aria-cambiare;;;user-input;Non c'è aria in questa stanza
+aria-cambiare;;;user-input;Cambiare un po' l'aria?
+aria-cambiare;;;user-input;Facciamo uscire la mosca
+aria-cambiare;;;user-input;Le finestre sono sigillate?
+aria-cambiare;;;user-input;sembra di essere in una stalla
+aria-cambiare;;;user-input;Non si respira in salotto
+aria-cambiare;;;user-input;che aria pesante che c'è qui dentro
+aria-cambiare;;;user-input;Mi manca l'aria Alfred 
+aria-cambiare;;;user-input;Cambiamo l’aria, c’è puzza di morto
+aria-cambiare;;;user-input;Che odore!
+aria-cambiare;;;user-input;Fai girare un po' l'aria qui dentro
+aria-cambiare;;;user-input;Bisogna cambiare l'aria
+aria-cambiare;;;user-input;Cambiamo un po' l'aria!
+aria-cambiare;;;user-input;L'aria in questa stanza puzza, bisogna farla circolare
+aria-cambiare;;;user-input;Non si respira
+aria-cambiare;;;user-input;Non hai ancora aperto la finestra? C'è l'aria da cambiare.
+aria-cambiare;;;user-input;L'aria è pesante
+aria-cambiare;;;user-input;Manca aria anche a te?
+aria-cambiare;;;user-input;Ossigeno?
+aria-cambiare;;;user-input;C'è puzza
+aria-cambiare;;;user-input;L'aria è irrespirabile
+aria-cambiare;;;user-input;la mattina è sempre meglio cambiare aria 
+aria-cambiare;;;user-input;Che cattivo odore in sala
+aria-cambiare;;;user-input;che puzza di chiuso
+aria-cambiare;;;user-input;C'è da cambiare l'aria Alfred
+aria-cambiare;;;user-input;Bisognerebbe cambiare l’aria qui
+aria-cambiare;;;user-input;L'aria è stagnante.
+aria-cambiare;;;user-input;Senti che puzza che c'è qui
+aria-cambiare;;;user-input;L'aria è un po' rarefatta
+aria-cambiare;;;user-input;Dobbiamo cambiare l'aria!
+aria-cambiare;;;user-input;Sento che l'aria va cambiata
+aria-cambiare;;;user-input;Vado ad aprire la finestra
+aria-cambiare;;;user-input;Non riesco a respirare bene.
+aria-cambiare;;;user-input;C'è un cattivo odore
+aria-cambiare;;;user-input;Non si respira qui
+aria-cambiare;;;user-input;Apriamo una finestra?
+aria-cambiare;;;user-input;Vorrei fumare una sigaretta
+aria-cambiare;;;user-input;Che cattivo odore
+aria-cambiare;;;user-input;in questa stanza non si respira
+aria-cambiare;;;user-input;C'è puzza di gas in cucina 
+aria-cambiare;;;user-input;sarà meglio aprire una finestra
+aria-cambiare;;;user-input;Non c'è ossigeno qui
+aria-cambiare;;;user-input;C’è un’aria pesantissima, bisogna cambiarla
+aria-cambiare;;;user-input;Non si può respirare.
+;;;;
+rumore-fuori;;;user-input;Ho sentito un rumore
+rumore-fuori;;;user-input;Ho sentito un rumore
+rumore-fuori;;;user-input;Cos'è stato?
+rumore-fuori;;;user-input;Mamma cosa è stato?
+rumore-fuori;;;user-input;Cos'è stato?
+rumore-fuori;;;user-input;Senti anche tu questo rumore?
+rumore-fuori;;;user-input;Ho sentito un rumore
+rumore-fuori;;;user-input;Avete sentito che botto?
+rumore-fuori;;;user-input;Cos'era quel suono?
+rumore-fuori;;;user-input;Speriamo non sia successo nulla di strano
+rumore-fuori;;;user-input;Caspita che botta!
+rumore-fuori;;;user-input;cos'è stato?
+rumore-fuori;;;user-input;Cos'è stato quel rumore? 
+rumore-fuori;;;user-input;cos'è stato quel rumore?
+rumore-fuori;;;user-input;Che strano rumore
+rumore-fuori;;;user-input;Cos’è stato?
+rumore-fuori;;;user-input;Mai sentito questo rumore.
+rumore-fuori;;;user-input;Viene uno strano rumore da fuori
+rumore-fuori;;;user-input;Chi sta urlando nel vicinato?
+rumore-fuori;;;user-input;Hai sentito quel suono?
+rumore-fuori;;;user-input;Che succede?
+rumore-fuori;;;user-input;Che rumore è?
+rumore-fuori;;;user-input;Secondo te chi sta facendo questo baccano?
+rumore-fuori;;;user-input;Ho sentito uno strano rumore
+rumore-fuori;;;user-input;Assordante questo suono improvviso!
+rumore-fuori;;;user-input;Uh?
+rumore-fuori;;;user-input;Che rumore fastidioso
+rumore-fuori;;;user-input;Mi sono spaventata
+rumore-fuori;;;user-input;sbaglio, o sembrava un colpo di pistola?
+rumore-fuori;;;user-input;C'è qualcuno in casa? 
+rumore-fuori;;;user-input;cosa starà facendo tutto sto casino
+rumore-fuori;;;user-input;Che fastidio questo rumore 
+rumore-fuori;;;user-input;Hai sentito? Che strano rumore
+rumore-fuori;;;user-input;Che fanno i vicini?
+rumore-fuori;;;user-input;Lo hai sentito anche tu quel rumore?
+rumore-fuori;;;user-input;Cos'è questo frastuono?
+rumore-fuori;;;user-input;Cos'era quel rumore?
+rumore-fuori;;;user-input;Che strano rumore, cos'è?
+rumore-fuori;;;user-input;Cosa stanno facendo fuori?
+rumore-fuori;;;user-input;Sento un rumore strano.
+rumore-fuori;;;user-input;Credo che fuori stia succendo qualcosa
+rumore-fuori;;;user-input;Cosa è stato questo rumore?
+rumore-fuori;;;user-input;Avete sentito anche voi?
+rumore-fuori;;;user-input;Non ho sentito cosa hai detto per via del rumore
+rumore-fuori;;;user-input;L'allarme dei vicini è fastidioso
+rumore-fuori;;;user-input;cosa può essere a quest'ora?
+rumore-fuori;;;user-input;C'è stato un rumore inquietante! 
+rumore-fuori;;;user-input;ma che combinano i vicini
+rumore-fuori;;;user-input;Hai sentito anche tu, Alfred? 
+rumore-fuori;;;user-input;C’è qualcosa di insolito fuori
+rumore-fuori;;;user-input;Staranno facendo dei lavori?
+rumore-fuori;;;user-input;Cos'era quel rumore?
+rumore-fuori;;;user-input;C'è caos proveniente dall'esterno
+rumore-fuori;;;user-input;Hai sentito?
+rumore-fuori;;;user-input;Cos'è questo rumore?
+rumore-fuori;;;user-input;Cos'è questo rumore!
+rumore-fuori;;;user-input;Che cos'è tutta questa confusione?
+rumore-fuori;;;user-input;Mi è parso di sentire un rumore venire da fuori
+rumore-fuori;;;user-input;Che spavento. Non me lo aspettavo
+rumore-fuori;;;user-input;Che succede fuori?
+rumore-fuori;;;user-input;Anche oggi devono fare i lavori!
+rumore-fuori;;;user-input;Ci sarà stato un incidente?
+rumore-fuori;;;user-input;mi è sembrato di sentire uno strano rumore
+rumore-fuori;;;user-input;È caduto qualcosa? 
+rumore-fuori;;;user-input;che succede là fuori?
+rumore-fuori;;;user-input;Cos'è è stato, Alfred? 
+rumore-fuori;;;user-input;Ho sentito un rumore, cosa sarà?
+rumore-fuori;;;user-input;Cosa sarà a fare questo rumore?
+rumore-fuori;;;user-input;Oddio che spavento quel rumore
+rumore-fuori;;;user-input;Stanno schiamazzando qua intorno
+rumore-fuori;;;user-input;Che cavolo è stato?
+rumore-fuori;;;user-input;Cosa è stato questo rumore?
+rumore-fuori;;;user-input;Che spavento!
+rumore-fuori;;;user-input;Mi chiedo che cosa stia succedendo.
+rumore-fuori;;;user-input;Mi è parso di sentire qualcuno qua fuori
+rumore-fuori;;;user-input;Avete visto quel lampo tutto ad un tratto ?
+rumore-fuori;;;user-input;Cos'era quel rumore?
+rumore-fuori;;;user-input;Forse è caduto qualcosa fuori
+rumore-fuori;;;user-input;Sembra uno sparo
+rumore-fuori;;;user-input;che botta!
+rumore-fuori;;;user-input;Che cos'è stato quel frastuono? 
+rumore-fuori;;;user-input;ma cosa c'è fuori dalla finestra
+rumore-fuori;;;user-input;Questo rumore mi snerva
+rumore-fuori;;;user-input;Bisogna andare a controllare fuori, ho sentito qualcosa di strano
+rumore-fuori;;;user-input;Non si può mai stare tranquilli.
+;;;;
+odore-sgradevole;;;user-input;Cos'è questa puzza?
+odore-sgradevole;;;user-input;C'è odore sgradevole
+odore-sgradevole;;;user-input;Senti questo odore ?
+odore-sgradevole;;;user-input;C'è puzza
+odore-sgradevole;;;user-input;Che puzza!
+odore-sgradevole;;;user-input;Che odoraccio!
+odore-sgradevole;;;user-input;C'è un cattivo odore in questa stanza
+odore-sgradevole;;;user-input;Che puzza
+odore-sgradevole;;;user-input;Che puzza
+odore-sgradevole;;;user-input;Che puzza
+odore-sgradevole;;;user-input;Che puzza
+odore-sgradevole;;;user-input;c'è un cattivo odore
+odore-sgradevole;;;user-input;C'è un cattivo odore in sala
+odore-sgradevole;;;user-input;che puzza
+odore-sgradevole;;;user-input;Ma che puzza 
+odore-sgradevole;;;user-input;Che fetore! 
+odore-sgradevole;;;user-input;Che puzza.
+odore-sgradevole;;;user-input;Che odoraccio!
+odore-sgradevole;;;user-input;In questa casa non si respira dal tanfo
+odore-sgradevole;;;user-input;Che puzza!
+odore-sgradevole;;;user-input;C'è qualcosa che puzza
+odore-sgradevole;;;user-input;Cos'è questo odore?
+odore-sgradevole;;;user-input;Mi chiedo da dove arrivi quest'odore.
+odore-sgradevole;;;user-input;Non c'è un buon odore
+odore-sgradevole;;;user-input;Che odore di fogna qui dentro
+odore-sgradevole;;;user-input;Che è questa puzza?
+odore-sgradevole;;;user-input;Soffoco
+odore-sgradevole;;;user-input;Il cavolo è cotto
+odore-sgradevole;;;user-input;sembra di essere in una fogna
+odore-sgradevole;;;user-input;C'è qualcosa che puzza in cucina 
+odore-sgradevole;;;user-input;non sarà mica andato a male qualcosa
+odore-sgradevole;;;user-input;Ma da dove arriva questo odore
+odore-sgradevole;;;user-input;L’odore qui dentro è insopportabile
+odore-sgradevole;;;user-input;Che cosa è questo odore?
+odore-sgradevole;;;user-input;Da dove arriva quest'odore?
+odore-sgradevole;;;user-input;Che puzza che c'è qui
+odore-sgradevole;;;user-input;Cos'è che fa questa puzza?
+odore-sgradevole;;;user-input;C'è uno strano odore
+odore-sgradevole;;;user-input;Apri la finestra!
+odore-sgradevole;;;user-input;Senti anche tu questa puzza?
+odore-sgradevole;;;user-input;Sento uno strano odore
+odore-sgradevole;;;user-input;Che tanfo che c'è qui
+odore-sgradevole;;;user-input;Cos'è sto odore?
+odore-sgradevole;;;user-input;Questo odore mi da la nausea
+odore-sgradevole;;;user-input;È marcito qualcosa
+odore-sgradevole;;;user-input;ma cos'è questo tanfo?
+odore-sgradevole;;;user-input;C'è aria viziata in camera
+odore-sgradevole;;;user-input;ma che è morto qualcosa qui dentro?
+odore-sgradevole;;;user-input;Ma cos'è questa roba
+odore-sgradevole;;;user-input;Questa casa ha un odore pessimo
+odore-sgradevole;;;user-input;Alfredo hai scorrato?
+odore-sgradevole;;;user-input;Sento una strana puzza
+odore-sgradevole;;;user-input;Da dove viene questo cattivo odore?
+odore-sgradevole;;;user-input;Da dove proviene questo odore?
+odore-sgradevole;;;user-input;C'è un cattivo odore nell'aria
+odore-sgradevole;;;user-input;Che schifo!
+odore-sgradevole;;;user-input;Sai come mai ci sia quest'odore?
+odore-sgradevole;;;user-input;C'è qualcosa che puzza in questa stanza
+odore-sgradevole;;;user-input;Non sentite questo odore nauseante?
+odore-sgradevole;;;user-input;Che sbanfa
+odore-sgradevole;;;user-input;Forse dovrei buttare la spazzatura
+odore-sgradevole;;;user-input;Questo odore è fastidioso
+odore-sgradevole;;;user-input;che puzza!
+odore-sgradevole;;;user-input;C'è odore di gas in cucina
+odore-sgradevole;;;user-input;che è sto odore?
+odore-sgradevole;;;user-input;Non si respira qua dentro 
+odore-sgradevole;;;user-input;Credo sia meglio comprare un deodorante per ambienti 
+odore-sgradevole;;;user-input;Che tanfo.
+odore-sgradevole;;;user-input;Ma che puzza!
+odore-sgradevole;;;user-input;L'aria nella stanza è viziata
+odore-sgradevole;;;user-input;Che odore sgradevole!
+odore-sgradevole;;;user-input;Sento puzza
+odore-sgradevole;;;user-input;Prendo un deodorante
+odore-sgradevole;;;user-input;Sta bruciando qualcosa?
+odore-sgradevole;;;user-input;Mi sembra di sentire puzza di qualcosa
+odore-sgradevole;;;user-input;Che odore insopportabile.
+odore-sgradevole;;;user-input;Qualcuno ha mollato?
+odore-sgradevole;;;user-input;Sto andando in apnea
+odore-sgradevole;;;user-input;La lettiera del gatto è sporca
+odore-sgradevole;;;user-input;da dove viene questo odoraccio?
+odore-sgradevole;;;user-input;Questo odore è insopportabile 
+odore-sgradevole;;;user-input;che schifo di odore
+odore-sgradevole;;;user-input;Alfred, sei stato tu? 
+odore-sgradevole;;;user-input;Sarebbe meglio aprire la finestra per fare uscire questa puzza
+odore-sgradevole;;;user-input;Non si può stare qua dentro!
+;;;;
+gas;;;user-input;Sento puzza di gas
+gas;;;user-input;Secondo me c'è una perdita di gas
+gas;;;user-input;C'è il gas acceso!
+gas;;;user-input;C'è puzza di gas
+gas;;;user-input;C'è il gas aperto?
+gas;;;user-input;C'è odore di gas.
+gas;;;user-input;Ho paura di aver lasciato il gas aperto
+gas;;;user-input;Non sentite anche voi odore di gas?
+gas;;;user-input;Qualcuno ha mollato?
+gas;;;user-input;Non respirate!
+gas;;;user-input;Anche voi sentire questo odore?
+gas;;;user-input;sento odore di gas
+gas;;;user-input;C'è puzza di gas in cucina
+gas;;;user-input;che puzza di gas
+gas;;;user-input;Che puzza di gas
+gas;;;user-input;C’è odore di gas
+gas;;;user-input;Avrò lasciato il gas aperto?
+gas;;;user-input;Questa puzza è gas?
+gas;;;user-input;C'è puzza di metano
+gas;;;user-input;Che puzza di gas!
+gas;;;user-input;C'è del gas nell'aria
+gas;;;user-input;Perché c'è odore di gas?
+gas;;;user-input;Penso che ci sia odore di gas.
+gas;;;user-input;Temo ci sia una fuga di gas
+gas;;;user-input;La cucina perde gas. Non senti?
+gas;;;user-input;Cos'è sto odore?
+gas;;;user-input;Rischiamo di saltare in aria
+gas;;;user-input;Se rotto il tubo
+gas;;;user-input;c'è puzza di gas
+gas;;;user-input;C'è un odore che viene dai fornelli
+gas;;;user-input;spero che la stanza non si sia riempita di gas
+gas;;;user-input;Non respiro
+gas;;;user-input;Che puzza di gas qui!
+gas;;;user-input;Che odore strano, da dove verrà?
+gas;;;user-input;La senti anche tu la puzza di gas?
+gas;;;user-input;Hai chiuso il gas? Sento cattivo odore
+gas;;;user-input;Abbiamo lasciato il gas aperto?
+gas;;;user-input;Sento puzza di gas
+gas;;;user-input;Apri la finestra!
+gas;;;user-input;Attenzione, c'è odore di gas.
+gas;;;user-input;Ho paura ci sia una perdita di gas
+gas;;;user-input;La stanza è piena di gas.
+gas;;;user-input;È odore di gas questo?
+gas;;;user-input;Che puzza di gas!
+gas;;;user-input;Ci deve essere una perdita
+gas;;;user-input;avrò lasciato il gas acceso
+gas;;;user-input;C'è un pessimo odore in cucina
+gas;;;user-input;spero che la caldaia non stia perdendo
+gas;;;user-input;Hai lasciato il fornello acceso, Alfred? 
+gas;;;user-input;Potrebbe esserci una fuga di gas, ne sento l’odore
+gas;;;user-input;Ci sarà una perdita?
+gas;;;user-input;Mi sembra ci sia odore di gas
+gas;;;user-input;C'è odore di gas
+gas;;;user-input;C'è odore di gas!
+gas;;;user-input;Sento odore di gas
+gas;;;user-input;Chiudi il gas!
+gas;;;user-input;Senti anche tu odore di gas?
+gas;;;user-input;Sento puzza di gas
+gas;;;user-input;Che puzza di gas
+gas;;;user-input;Ci sono i fornelli accesi?
+gas;;;user-input;Controllo un attimo i fornelli
+gas;;;user-input;C'è puzza di gas
+gas;;;user-input;potrebbe esserci una perdita di gas
+gas;;;user-input;C'è un odore sospetto in casa 
+gas;;;user-input;avrò lasciato i fornelli accesi?
+gas;;;user-input;C'è una perdita di gas
+gas;;;user-input;Sento una preoccupante puzza di gas
+gas;;;user-input;Sembra ci sia odore di gas.
+gas;;;user-input;Ci deve essere una perdita di gas!
+gas;;;user-input;C'è un sentore di gas nella stanza
+gas;;;user-input;Chiudi il gas!
+gas;;;user-input;Cos'è questa puzza di gas
+gas;;;user-input;Non accendere i fornelli!
+gas;;;user-input;I fornelli sono accesi.
+gas;;;user-input;Mi sembra di sentire odore di gas
+gas;;;user-input;Si respira solo gas qui dentro.
+gas;;;user-input;Puzza di gas?
+gas;;;user-input;Cos'è questo odore sgradevole
+gas;;;user-input;È finita la bombola
+gas;;;user-input;mi sento soffocare, c'è odore di gas
+gas;;;user-input;C'è puzza in cucina 
+gas;;;user-input;meglio non fumare qui dentro con sta puzza di gas
+gas;;;user-input;Mi serve aria
+gas;;;user-input;Senti. Non trovi ci sia puzza di gas?
+gas;;;user-input;C'e' qualcosa che non va.
+;;;;
+sentirsi-soffocare;;;user-input;Oddio non riesco a respirare
+sentirsi-soffocare;;;user-input;Mi manca l'aria
+sentirsi-soffocare;;;user-input;Mi manca l'aria!
+sentirsi-soffocare;;;user-input;Non riesco a respirare
+sentirsi-soffocare;;;user-input;Non mi sento bene
+sentirsi-soffocare;;;user-input;Aiuto, mi sento soffocare!
+sentirsi-soffocare;;;user-input;Mi manca l'aria
+sentirsi-soffocare;;;user-input;Non respiro
+sentirsi-soffocare;;;user-input;Non c'è aria qua dentro
+sentirsi-soffocare;;;user-input;Non respiro
+sentirsi-soffocare;;;user-input;Non respiro
+sentirsi-soffocare;;;user-input;si soffoca
+sentirsi-soffocare;;;user-input;Non si respira qui dentro 
+sentirsi-soffocare;;;user-input;soffoco
+sentirsi-soffocare;;;user-input;Oddio Alfred, mi manca l'aria 
+sentirsi-soffocare;;;user-input;Mi manca il respiro
+sentirsi-soffocare;;;user-input;Non si respira oggi.
+sentirsi-soffocare;;;user-input;Ho bisogno di ossigeno
+sentirsi-soffocare;;;user-input;Sto morendo asfissiata
+sentirsi-soffocare;;;user-input;Mi manca il respiro!
+sentirsi-soffocare;;;user-input;Sento che mi manca l'aria
+sentirsi-soffocare;;;user-input;Mi sento soffocare
+sentirsi-soffocare;;;user-input;Ho un mancamento.
+sentirsi-soffocare;;;user-input;Non c'è un filo d'aria
+sentirsi-soffocare;;;user-input;Sto male: ho fame d'aria
+sentirsi-soffocare;;;user-input;Aiutatemi soffoco!
+sentirsi-soffocare;;;user-input;Aiuto, mi sento soffocare
+sentirsi-soffocare;;;user-input;C'è troppa polvere, ho l'allergia
+sentirsi-soffocare;;;user-input;ho un nodo in gola, mi manca il fiato
+sentirsi-soffocare;;;user-input;Non si respira in cucina
+sentirsi-soffocare;;;user-input;mi sta venendo un attacco di claustrofobia
+sentirsi-soffocare;;;user-input;Ho bisogno di una boccata d'aria 
+sentirsi-soffocare;;;user-input;Soffoco!
+sentirsi-soffocare;;;user-input;Non mi sento bene.
+sentirsi-soffocare;;;user-input;Sto soffocando
+sentirsi-soffocare;;;user-input;Non riesco a respirare
+sentirsi-soffocare;;;user-input;Ho l'affanno!
+sentirsi-soffocare;;;user-input;Non respiro, mi manca l'aria
+sentirsi-soffocare;;;user-input;Mi manca l'aria
+sentirsi-soffocare;;;user-input;Mi manca l'aria.
+sentirsi-soffocare;;;user-input;In questa stanza manca l'aria
+sentirsi-soffocare;;;user-input;Aiuto!Sto per soffocare
+sentirsi-soffocare;;;user-input;*respira affanato*
+sentirsi-soffocare;;;user-input;Sto avendo un attacco di panico
+sentirsi-soffocare;;;user-input;Non c'è ossigeno nell'aria
+sentirsi-soffocare;;;user-input;non si respira
+sentirsi-soffocare;;;user-input;Mi manca l'aria in questa stanza 
+sentirsi-soffocare;;;user-input;c'è un'aria pesantissima qui dentro
+sentirsi-soffocare;;;user-input;Mi serve ossigeno 
+sentirsi-soffocare;;;user-input;Aiuto! Mi manca l’aria
+sentirsi-soffocare;;;user-input;Potrei svenire!
+sentirsi-soffocare;;;user-input;Mi manca l'aria
+sentirsi-soffocare;;;user-input;Mi sento soffocare
+sentirsi-soffocare;;;user-input;Non riesco a respirare bene!
+sentirsi-soffocare;;;user-input;Faccio fatica a respirare
+sentirsi-soffocare;;;user-input;Fatico a respirare
+sentirsi-soffocare;;;user-input;Non respiro.
+sentirsi-soffocare;;;user-input;Non riesco a respirare
+sentirsi-soffocare;;;user-input;Faccio fatica a prendere aria
+sentirsi-soffocare;;;user-input;Soffoco!
+sentirsi-soffocare;;;user-input;Ho bisogno di ossigeno
+sentirsi-soffocare;;;user-input;Soffoco
+sentirsi-soffocare;;;user-input;mi manca l'aria
+sentirsi-soffocare;;;user-input;C'è puzza in casa! 
+sentirsi-soffocare;;;user-input;mi manca l'aria
+sentirsi-soffocare;;;user-input;Sto soffocando 
+sentirsi-soffocare;;;user-input;Penso di stare soffocando
+sentirsi-soffocare;;;user-input;Mi sento mancare.
+sentirsi-soffocare;;;user-input;Aria! Sto male
+sentirsi-soffocare;;;user-input;Sto boccheggiando
+sentirsi-soffocare;;;user-input;Mi sento soffocare!
+sentirsi-soffocare;;;user-input;Non respiro bene
+sentirsi-soffocare;;;user-input;Non respiro
+sentirsi-soffocare;;;user-input;Fatico a respirare.
+sentirsi-soffocare;;;user-input;Ho il fiato corto
+sentirsi-soffocare;;;user-input;Mi manca l'ossigeno
+sentirsi-soffocare;;;user-input;Aiuto!
+sentirsi-soffocare;;;user-input;Questo vestito é troppo stretto
+sentirsi-soffocare;;;user-input;Ho il naso tappato per il raffreddore
+sentirsi-soffocare;;;user-input;non ho aria
+sentirsi-soffocare;;;user-input;C'è troppo odore di chiuso
+sentirsi-soffocare;;;user-input;ho un attacco d'asma
+sentirsi-soffocare;;;user-input;Aiuto, soffoco 
+sentirsi-soffocare;;;user-input;Mi sento soffocare
+sentirsi-soffocare;;;user-input;Un po' d'aria non guasterebbe.
+;;;;
+sete;;;user-input;Che sete
+sete;;;user-input;Ho sete
+sete;;;user-input;Che sete!
+sete;;;user-input;Ho molta sete
+sete;;;user-input;Ho sete
+sete;;;user-input;Ho molt sete.
+sete;;;user-input;Che sete
+sete;;;user-input;Ho sete
+sete;;;user-input;Una zuzza?
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;Ho sete
+sete;;;user-input;ho sete
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;ho sete
+sete;;;user-input;Che sete 
+sete;;;user-input;Ho sete
+sete;;;user-input;Che sete!
+sete;;;user-input;Mi è venuta una sete
+sete;;;user-input;Ho la bocca secca
+sete;;;user-input;C'è qualcosa da bere?
+sete;;;user-input;Ho bisogno di bere
+sete;;;user-input;Vado a bere
+sete;;;user-input;Ho la gola secca.
+sete;;;user-input;Ho la bocca asciutta
+sete;;;user-input;Ho le labbra arse per la sete
+sete;;;user-input;C'ho la gola secca
+sete;;;user-input;Ho bisogno di bere
+sete;;;user-input;Ho bisogno di acqua
+sete;;;user-input;ho proprio voglia di bere qualcosa
+sete;;;user-input;Ho bisogno di reintegrare un po' d'acqua 
+sete;;;user-input;ci vorrebbe una bibita fresca
+sete;;;user-input;Ho voglia di acqua 
+sete;;;user-input;Datemi dell’acqua
+sete;;;user-input;Non ricordo l'ultima volta che ho bevuto.
+sete;;;user-input;Mi passi l'acqua
+sete;;;user-input;C'è dell'acqua?
+sete;;;user-input;Beviamo qualcosa?
+sete;;;user-input;Ho sete e vorrei bere
+sete;;;user-input;Vorrei qualcosa da bere
+sete;;;user-input;Mi serve qualcosa da bere.
+sete;;;user-input;Vado a prendere un pò d'acqua
+sete;;;user-input;Ho la bocca asciutta.
+sete;;;user-input;Dell'acqua?
+sete;;;user-input;Mi scolerei l'intera bottiglia
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;non bevo da ore
+sete;;;user-input;Ho la bocca impastata 
+sete;;;user-input;mi sento la lingua felpata
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;Ho bisogno di acqua 
+sete;;;user-input;Che ho da bere?
+sete;;;user-input;Mi prendo un bicchiere d'acqua
+sete;;;user-input;Vorrei qualcosa da bere
+sete;;;user-input;Ho sete!
+sete;;;user-input;Ho sete
+sete;;;user-input;Vorrei un bicchiere d'acqua
+sete;;;user-input;Devo bere dell'acqua.
+sete;;;user-input;Ho molta sete
+sete;;;user-input;Vorrei un pò di acqua da bere
+sete;;;user-input;Che sete
+sete;;;user-input;Ho la bocca asciutta
+sete;;;user-input;Sono disidrara
+sete;;;user-input;ho la bocca asciutta
+sete;;;user-input;Mi serve un bicchiere d acqua fresca 
+sete;;;user-input;ho la gola secca
+sete;;;user-input;Mi serve da bere 
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;Non bevo da un sacco.
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;Non bevo da ieri
+sete;;;user-input;Mi prendo qualcosa da bere
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;Prendo dell'acqua
+sete;;;user-input;Sono disidratata.
+sete;;;user-input;Ho la gola secca
+sete;;;user-input;Mi sento la gola secca
+sete;;;user-input;Ho sete
+sete;;;user-input;Sono disidratata
+sete;;;user-input;Non bevo da troppo tempo
+sete;;;user-input;muoio di sete
+sete;;;user-input;Sto morendo di sete
+sete;;;user-input;mi piacerebbe un bel bicchiere d'acqua ora
+sete;;;user-input;Muoio di sete 
+sete;;;user-input;Che arsura! Questa sete è insopportabile
+sete;;;user-input;Ho la gola secca.
+;;;;
+esercizio-fisico;;;user-input;Vado a fare un po' di ginnastica
+esercizio-fisico;;;user-input;Vado a correre
+esercizio-fisico;;;user-input;Vado a fare sport!
+esercizio-fisico;;;user-input;Vado a fare una corsetta
+esercizio-fisico;;;user-input;Vado a fare ginnastica
+esercizio-fisico;;;user-input;Devo uscire a correre.
+esercizio-fisico;;;user-input;Devo andare a correre
+esercizio-fisico;;;user-input;Torno presto. Vado a fare una corsetta
+esercizio-fisico;;;user-input;Vado in palestra
+esercizio-fisico;;;user-input;Vado un po' a correre
+esercizio-fisico;;;user-input;Odio fare ginnastica quando fa caldo
+esercizio-fisico;;;user-input;ora mi vesto e vado a correre
+esercizio-fisico;;;user-input;Vado a correre
+esercizio-fisico;;;user-input;devo uscire a correre
+esercizio-fisico;;;user-input;Devo andare a correre
+esercizio-fisico;;;user-input;Devo andare ad allenarmi
+esercizio-fisico;;;user-input;Dove sono le scarpe?
+esercizio-fisico;;;user-input;Preparo la borsa per la palestra
+esercizio-fisico;;;user-input;Esco per fare esercizio fisico
+esercizio-fisico;;;user-input;Esco per andare a fare un po' di sport!
+esercizio-fisico;;;user-input;Vado a fare esercizio fisico
+esercizio-fisico;;;user-input;Vado a correre
+esercizio-fisico;;;user-input;Vado a fare esercizio, vuoi venire con me?
+esercizio-fisico;;;user-input;Sto per andare a giocare a pallavolo
+esercizio-fisico;;;user-input;Venite anche voi a fare un giro in bici con me?
+esercizio-fisico;;;user-input;Io esco che vado a correre
+esercizio-fisico;;;user-input;Sono troppo molla
+esercizio-fisico;;;user-input;Al parco hanno installato un percorso fitness, voglio provarlo
+esercizio-fisico;;;user-input;vorrei uscire per fare esercizi ma non ho neanche voglia di vestirmi
+esercizio-fisico;;;user-input;Vado a prepararmi per la prova costume 
+esercizio-fisico;;;user-input;avrò preso tutto per la palestra?
+esercizio-fisico;;;user-input;Esco a farmi una nuotata Alfred 
+esercizio-fisico;;;user-input;Vado a fare esercizio fisico
+esercizio-fisico;;;user-input;La parte più difficile è trovare le cose.
+esercizio-fisico;;;user-input;Ora vado ad allenarmi
+esercizio-fisico;;;user-input;Oggi ho la lezione in palestra
+esercizio-fisico;;;user-input;Devo andare a fare sport!
+esercizio-fisico;;;user-input;Devo andare a correre
+esercizio-fisico;;;user-input;Vado in palestra
+esercizio-fisico;;;user-input;Non voglio stare sempre in casa a dormire, ho bisogno di muovermi.
+esercizio-fisico;;;user-input;devo prepararmi per andare in palestra
+esercizio-fisico;;;user-input;Arrivo dopo un'ora di jogging
+esercizio-fisico;;;user-input;Vado a correre
+esercizio-fisico;;;user-input;Devo dimagrire
+esercizio-fisico;;;user-input;Vado fare una corsa
+esercizio-fisico;;;user-input;faccio un salto in palestra
+esercizio-fisico;;;user-input;Vado in piscina 
+esercizio-fisico;;;user-input;devo ricordarmi di prendere le scarpe da corsa
+esercizio-fisico;;;user-input;Vado un po' in palestra 
+esercizio-fisico;;;user-input;C’è bisogno di un po’ di esercizio 
+esercizio-fisico;;;user-input;Non ne ho voglia ma dopo starò meglio.
+esercizio-fisico;;;user-input;Esco per andare a correre
+esercizio-fisico;;;user-input;Devo uscire a fare sport
+esercizio-fisico;;;user-input;Esco a fare sport!
+esercizio-fisico;;;user-input;Esco e vado a correre
+esercizio-fisico;;;user-input;Esco!
+esercizio-fisico;;;user-input;Voglio andare fuori per muovermi un po'.
+esercizio-fisico;;;user-input;Tra poco andrò in piscina
+esercizio-fisico;;;user-input;Vieni anche tu in palestra con me?
+esercizio-fisico;;;user-input;Vado a nuotare
+esercizio-fisico;;;user-input;Sono fuori forma
+esercizio-fisico;;;user-input;La palestra di Luis mi piace tanto
+esercizio-fisico;;;user-input;vado a fare una corsetta
+esercizio-fisico;;;user-input;Vado in palestra 
+esercizio-fisico;;;user-input;spero di non dimenticare la roba di palestra da nessuna parte
+esercizio-fisico;;;user-input;Alfred, esco a correre
+esercizio-fisico;;;user-input;Inizia una nuova sessione di allenamento
+esercizio-fisico;;;user-input;Non trovo la borsa!
+esercizio-fisico;;;user-input;Dove sono le mie scarpe da corsa
+esercizio-fisico;;;user-input;Vado a giocare a tennis
+esercizio-fisico;;;user-input;Vado a correre!
+esercizio-fisico;;;user-input;Vado a muovermi un po'
+esercizio-fisico;;;user-input;Vado a fare sport
+esercizio-fisico;;;user-input;Ci vediamo dopo, esco a fare esercizio.
+esercizio-fisico;;;user-input;tra poco ho un torneo di calcetto
+esercizio-fisico;;;user-input;Devo andare in piscina. Mi aspetti quando torno?
+esercizio-fisico;;;user-input;Vado ad allenarmi
+esercizio-fisico;;;user-input;Devo sfogarmi facendo un po' di sport
+esercizio-fisico;;;user-input;L'allenamento di oggi sarà intenso
+esercizio-fisico;;;user-input;oggi mi sento carico, vado a farmi una corsetta
+esercizio-fisico;;;user-input;Vado a migliorare la mia prestanza fisica 
+esercizio-fisico;;;user-input;speriamo non inizi a piovere mentre corro
+esercizio-fisico;;;user-input;Vado a buttare un po' giù la pancia 
+esercizio-fisico;;;user-input;Sento bisogno di fare del moto 
+esercizio-fisico;;;user-input;Ho tutto quel che mi serve?
+;;;;
+manca-acqua-tavola;;;user-input;La brocca dell'acqua è vuota
+manca-acqua-tavola;;;user-input;Non abbiamo messo l'acqua in tavola
+manca-acqua-tavola;;;user-input;Manca l'acqua!
+manca-acqua-tavola;;;user-input;Non c'è più acqua
+manca-acqua-tavola;;;user-input;Bisogna prendere l'acqua
+manca-acqua-tavola;;;user-input;Non c'è l'acqua in tavola!
+manca-acqua-tavola;;;user-input;é finita l'acqua
+manca-acqua-tavola;;;user-input;C'è poca acqua
+manca-acqua-tavola;;;user-input;L'acqua?
+manca-acqua-tavola;;;user-input;Che sbadata che sono, manca l'acqua
+manca-acqua-tavola;;;user-input;Manca l'acqua
+manca-acqua-tavola;;;user-input;vado a prendere l'acqua
+manca-acqua-tavola;;;user-input;È finita l'acqua 
+manca-acqua-tavola;;;user-input;ho dimenticato la bottiglia d'acqua
+manca-acqua-tavola;;;user-input;C'è da prendere l'acqua 
+manca-acqua-tavola;;;user-input;Manca l’acqua in tavola
+manca-acqua-tavola;;;user-input;Manca l'acqua!
+manca-acqua-tavola;;;user-input;Abbiamo finito l'acqua
+manca-acqua-tavola;;;user-input;Non c'è acqua in tavola
+manca-acqua-tavola;;;user-input;Non abbiamo messo l'acqua in tavola!
+manca-acqua-tavola;;;user-input;C'è bisogno di altra acqua
+manca-acqua-tavola;;;user-input;Prendo la bottiglia
+manca-acqua-tavola;;;user-input;Dov'è l'acqua?
+manca-acqua-tavola;;;user-input;ho dimenticato l'acqua
+manca-acqua-tavola;;;user-input;Non abbiamo messo l'acqua in tavola
+manca-acqua-tavola;;;user-input;La bottiglia d'acqua?
+manca-acqua-tavola;;;user-input;Devo riempire la brocca
+manca-acqua-tavola;;;user-input;La bottiglia è vuota
+manca-acqua-tavola;;;user-input;ho già finito tutta l'acqua in tavola 
+manca-acqua-tavola;;;user-input;Non c'è più acqua in tavola
+manca-acqua-tavola;;;user-input;dov'è la bottiglia?
+manca-acqua-tavola;;;user-input;Non c'è da bere 
+manca-acqua-tavola;;;user-input;In tavola non vedo acqua
+manca-acqua-tavola;;;user-input;E' finita l'acqua.
+manca-acqua-tavola;;;user-input;Non c'è più acqua
+manca-acqua-tavola;;;user-input;L'acqua è ancora in frigo?
+manca-acqua-tavola;;;user-input;Mi passi l'acqua che è in frigo?
+manca-acqua-tavola;;;user-input;Serve dell'acqua in tavola
+manca-acqua-tavola;;;user-input;Manca l'acqua
+manca-acqua-tavola;;;user-input;Ci siamo dimenticati l'acqua.
+manca-acqua-tavola;;;user-input;manca l'acqua
+manca-acqua-tavola;;;user-input;Ci siamo finiti l'acqua
+manca-acqua-tavola;;;user-input;Dov'è l'acqua?
+manca-acqua-tavola;;;user-input;Ho dimenticato di comprare l'acqua
+manca-acqua-tavola;;;user-input;Ho sete
+manca-acqua-tavola;;;user-input;con tutto quello che ho mangiato vorrei bere ma non c'è l'acqua
+manca-acqua-tavola;;;user-input;Manca la brocca dell'acqua
+manca-acqua-tavola;;;user-input;ora devo alzarmi per andare a prendere l'acqua
+manca-acqua-tavola;;;user-input;Alfred, non c'è l'acqua in tavola
+manca-acqua-tavola;;;user-input;Bisogna portare l’acqua in tavola
+manca-acqua-tavola;;;user-input;Servirebbe qualcosa per mandare giù questo boccone.
+manca-acqua-tavola;;;user-input;Prendi l'acqua che è finita?
+manca-acqua-tavola;;;user-input;Manca l'acqua
+manca-acqua-tavola;;;user-input;Puoi prendere l'acqua?
+manca-acqua-tavola;;;user-input;È finita l'acqua
+manca-acqua-tavola;;;user-input;Non c'è l'acqua
+manca-acqua-tavola;;;user-input;Serve dell'acqua.
+manca-acqua-tavola;;;user-input;non c'è più acqua
+manca-acqua-tavola;;;user-input;La bottiglia dell'acqua è vuota
+manca-acqua-tavola;;;user-input;Qualcuno puo prendere l'acqua?
+manca-acqua-tavola;;;user-input;Qualcuno deve tornare in cucina
+manca-acqua-tavola;;;user-input;L'acqua nel frigo
+manca-acqua-tavola;;;user-input;ho sete, ma non c'è l'acqua in tavola
+manca-acqua-tavola;;;user-input;Non c'è da bere a tavola 
+manca-acqua-tavola;;;user-input;dopo la pasta ho sempre bisogno di un bicchiere d'acqua
+manca-acqua-tavola;;;user-input;Manca l'acqua 
+manca-acqua-tavola;;;user-input;Non c’è acqua in tavola
+manca-acqua-tavola;;;user-input;Ho sete.
+manca-acqua-tavola;;;user-input;Bisogna andare a prendere da bere
+manca-acqua-tavola;;;user-input;Abbiamo apparecchiato senza ricordarci l'acqua
+manca-acqua-tavola;;;user-input;Non c'è l'acqua!
+manca-acqua-tavola;;;user-input;Ho finito tutta l'acqua
+manca-acqua-tavola;;;user-input;Prendo l'acqua
+manca-acqua-tavola;;;user-input;Vorrei dell'acqua fresca.
+manca-acqua-tavola;;;user-input;ho lasciato l'acqua in frigo
+manca-acqua-tavola;;;user-input;Ti sei dimenticato di portare l'acqua
+manca-acqua-tavola;;;user-input;Una brocca d'acqua?
+manca-acqua-tavola;;;user-input;Vedo che eravate assetati
+manca-acqua-tavola;;;user-input;È finita l'acqua
+manca-acqua-tavola;;;user-input;dove ho messo la bottiglia d'acqua
+manca-acqua-tavola;;;user-input;Mancano le bottiglie in tavola 
+manca-acqua-tavola;;;user-input;ho preso tutto meno la bottiglia d'acqua quando ho messo tavola
+manca-acqua-tavola;;;user-input;Ho il bicchiere vuoto 
+manca-acqua-tavola;;;user-input;Come mai non c’è acqua?
+manca-acqua-tavola;;;user-input;La caraffa è vuota.
+;;;;
+fuoco-libero;;;user-input;Al fuoco!
+fuoco-libero;;;user-input;Al fuoco!
+fuoco-libero;;;user-input;Spegni!
+fuoco-libero;;;user-input;A fuoco
+fuoco-libero;;;user-input;Va a fuoco!
+fuoco-libero;;;user-input;Aito, c'è un fuoco!
+fuoco-libero;;;user-input;La presina ha preso fuoco!
+fuoco-libero;;;user-input;Aiuto ci sono delle fiamme
+fuoco-libero;;;user-input;Aiuto!
+fuoco-libero;;;user-input;Va a fuoco!
+fuoco-libero;;;user-input;Sento puzza di bruciato
+fuoco-libero;;;user-input;al fuoco!
+fuoco-libero;;;user-input;Ci sono i fornelli che vanno a fuoco 
+fuoco-libero;;;user-input;oddio un incendio
+fuoco-libero;;;user-input;Oddio un incendio 
+fuoco-libero;;;user-input;C’è del fuoco
+fuoco-libero;;;user-input;Aiuto c'e' il fuoco!
+fuoco-libero;;;user-input;Va a fuoco!
+fuoco-libero;;;user-input;Ho incendiato il tappeto
+fuoco-libero;;;user-input;Aspetta, lo spengo!
+fuoco-libero;;;user-input;Allarme incendio
+fuoco-libero;;;user-input;Serve un secchio!
+fuoco-libero;;;user-input;Si è acceso un fuoco!
+fuoco-libero;;;user-input;Qualcosa ha preso fuoco!
+fuoco-libero;;;user-input;A cosa avete dato fuoco ?
+fuoco-libero;;;user-input;Presto, qualcuno mi aiuti
+fuoco-libero;;;user-input;Attenti che vi bruciate
+fuoco-libero;;;user-input;Sta bruciando la presa
+fuoco-libero;;;user-input;brucia tutto!
+fuoco-libero;;;user-input;L'allarme antincendio è scattato in salotto! 
+fuoco-libero;;;user-input;dov'è un estintore quando serve 
+fuoco-libero;;;user-input;Sta bruciando la casa
+fuoco-libero;;;user-input;Si sta sviluppando un piccolo fuoco!
+fuoco-libero;;;user-input;La situazione sta diventando scottante.
+fuoco-libero;;;user-input;Presto sta prendendo fuoco
+fuoco-libero;;;user-input;Qualcosa ha preso fuoco!
+fuoco-libero;;;user-input;Si è acceso un piccolo fuoco!
+fuoco-libero;;;user-input;Sta bruciando qualcosa
+fuoco-libero;;;user-input;Una coperta!
+fuoco-libero;;;user-input;Bisogna spegnere il fuoco!
+fuoco-libero;;;user-input;Esce del fumo dal forno!
+fuoco-libero;;;user-input;Aiuto. Sta bruciando qualcosa
+fuoco-libero;;;user-input;Fuoco!
+fuoco-libero;;;user-input;Allontanatevi da lì
+fuoco-libero;;;user-input;Aiuto un fuoco
+fuoco-libero;;;user-input;passami quell'acqua!
+fuoco-libero;;;user-input;Il mio ufficio è in fiamme! 
+fuoco-libero;;;user-input;non ricordo nessun metodo per spegnere i fuochi
+fuoco-libero;;;user-input;Aiuto, le fiamme
+fuoco-libero;;;user-input;Quello è un pericoloso fuoco!
+fuoco-libero;;;user-input;Delle fiamme !?
+fuoco-libero;;;user-input;Oddio ha preso fuoco
+fuoco-libero;;;user-input;C'è un incendio in cucina
+fuoco-libero;;;user-input;Oddio!
+fuoco-libero;;;user-input;Qualcosa brucia
+fuoco-libero;;;user-input;Serve dell'acqua!
+fuoco-libero;;;user-input;Presto, spegniamo il fuoco prima che si propaghi!
+fuoco-libero;;;user-input;Esce del fumo dalla cucina!
+fuoco-libero;;;user-input;C'è un principio di incendio
+fuoco-libero;;;user-input;Prendete un estintore
+fuoco-libero;;;user-input;Sta bruciando tutto!
+fuoco-libero;;;user-input;Non voglio ustionarmi
+fuoco-libero;;;user-input;ha preso fuoco qualcosa!
+fuoco-libero;;;user-input;C'è la cucina che va a fuoco
+fuoco-libero;;;user-input;cavolo non ho niente a portata di mano per spegnere il fuoco
+fuoco-libero;;;user-input;Al fuoco, al fuoco! 
+fuoco-libero;;;user-input;Attenzione! Fuoco!
+fuoco-libero;;;user-input;Quale è il numero dei pompieri?
+fuoco-libero;;;user-input;Si è incendiato lo strofinaccio
+fuoco-libero;;;user-input;La cucina sta bruciando
+fuoco-libero;;;user-input;Spegniamolo!
+fuoco-libero;;;user-input;C'è un piccolo incendio
+fuoco-libero;;;user-input;L'estintore!
+fuoco-libero;;;user-input;Butta qualcosa sopra il fuoco!
+fuoco-libero;;;user-input;Va a fuoco qualcosa!
+fuoco-libero;;;user-input;Vedo delle piccole lingue di fuoco
+fuoco-libero;;;user-input;Portate dell'acqua
+fuoco-libero;;;user-input;C'è stato un cortocircuito !
+fuoco-libero;;;user-input;Sta suonando l'allarme antincendio
+fuoco-libero;;;user-input;come ha fatto a prendere fuoco così?!
+fuoco-libero;;;user-input;C'è un fuoco in dispensa! 
+fuoco-libero;;;user-input;oh cavolo mi va a fuoco la casa
+fuoco-libero;;;user-input;Si sta incenerendo tutto
+fuoco-libero;;;user-input;Al fuoco!
+fuoco-libero;;;user-input;Al fuoco!
+;;;;
+no-acqua in casa;;;user-input;Non c'è più acqua
+no-acqua in casa;;;user-input;Le tubature sono guaste
+no-acqua in casa;;;user-input;Non c'è più l'acqua!
+no-acqua in casa;;;user-input;Non esce più acqua dal rubinetto
+no-acqua in casa;;;user-input;Non c'è acqua
+no-acqua in casa;;;user-input;Non scende l'acqua.
+no-acqua in casa;;;user-input;é andata via l'acqua
+no-acqua in casa;;;user-input;Non viene più acqua dal rubinetto
+no-acqua in casa;;;user-input;Mi spiace, ma non c'è acqua
+no-acqua in casa;;;user-input;Non c'è più acqua,mi dispiace
+no-acqua in casa;;;user-input;Non posso lavarmi
+no-acqua in casa;;;user-input;manca l'acqua, potrebbero essersi rotti i tubi
+no-acqua in casa;;;user-input;Non esce acqua dai rubinetti! Ci sarà un guasto! 
+no-acqua in casa;;;user-input;cosa è successo all'acqua?
+no-acqua in casa;;;user-input;Manca l'acqua in casa Alfred 
+no-acqua in casa;;;user-input;Non c’è acqua
+no-acqua in casa;;;user-input;Non è possibile non avere acqua.
+no-acqua in casa;;;user-input;Non arriva acqua
+no-acqua in casa;;;user-input;Non esce acqua dal lavandino
+no-acqua in casa;;;user-input;Siamo senz'acqua!
+no-acqua in casa;;;user-input;Non c'è più acqua
+no-acqua in casa;;;user-input;Non va l'acqua
+no-acqua in casa;;;user-input;Cos'è successo ai tubi?
+no-acqua in casa;;;user-input;siamo rimasti senz'acqua corrente
+no-acqua in casa;;;user-input;Non abbiamo l'acqua per lavarci
+no-acqua in casa;;;user-input;Si son rotte le tubature
+no-acqua in casa;;;user-input;Nel deserto ci sarà più acqua che qui
+no-acqua in casa;;;user-input;Senza acqua è un disastro
+no-acqua in casa;;;user-input;non c'è acqua, chissà se manca anche ai vicini
+no-acqua in casa;;;user-input;La doccia non funziona più! Sarà per un guasto ai tubi
+no-acqua in casa;;;user-input;spero non sia un problema dell'acquedotto
+no-acqua in casa;;;user-input;Siamo senza acqua 
+no-acqua in casa;;;user-input;L’acqua non viene più 
+no-acqua in casa;;;user-input;C'e' un guasto?
+no-acqua in casa;;;user-input;L'acqua è staccata
+no-acqua in casa;;;user-input;Hanno chiuso l'acqua nella via per un guasto
+no-acqua in casa;;;user-input;Uffa dev'esserci stato un guasto alle tubature
+no-acqua in casa;;;user-input;Non scorre acqua dal rubinetto
+no-acqua in casa;;;user-input;C'è un problema ai tubi
+no-acqua in casa;;;user-input;Non posso lavarmi le mani, siamo senza acqua.
+no-acqua in casa;;;user-input;fino a domani saremo senz'acqua
+no-acqua in casa;;;user-input;Hanno chiuso l'acqua
+no-acqua in casa;;;user-input;Le tubature sono rotte, siamo a secco
+no-acqua in casa;;;user-input;Stanno facendo dei lavori per strada
+no-acqua in casa;;;user-input;C'è un guasto alle tubature
+no-acqua in casa;;;user-input;quando apro il rubinetto sento uno strano gorgoglio e l'acqua non scende
+no-acqua in casa;;;user-input;Il bagno è allagato, dev'essersi rotto un tubo
+no-acqua in casa;;;user-input;ora come faccio a lavarmi senz'acqua?
+no-acqua in casa;;;user-input;Non c'è acqua per lavarsi
+no-acqua in casa;;;user-input;Siamo rimasti senza acqua corrente
+no-acqua in casa;;;user-input;Non c'e' acqua!
+no-acqua in casa;;;user-input;Non esce acqua dal rubinetto
+no-acqua in casa;;;user-input;Non c'è acqua corrente in casa
+no-acqua in casa;;;user-input;Uffa, è andata via l'acqua!
+no-acqua in casa;;;user-input;Si sono rotte le tubature
+no-acqua in casa;;;user-input;Non esce acqua dai rubinetti
+no-acqua in casa;;;user-input;Ci serve un idraulico, si sono rotti i tubi.
+no-acqua in casa;;;user-input;manca l'acqua
+no-acqua in casa;;;user-input;Manca l'acqua
+no-acqua in casa;;;user-input;Siamo senz'acqua
+no-acqua in casa;;;user-input;dobbiamo comprare le bottiglie d'acqua
+no-acqua in casa;;;user-input;Non c'è acqua
+no-acqua in casa;;;user-input;bisogna chiamare l'idraulico
+no-acqua in casa;;;user-input;Siamo rimasti senz'acqua a causa di un guasto
+no-acqua in casa;;;user-input;sapevo che dovevo far controllare i tubi
+no-acqua in casa;;;user-input;Che succede all'acqua? 
+no-acqua in casa;;;user-input;Penso sia saltato un tubo. Non scorre acqua
+no-acqua in casa;;;user-input;Chissà quanto durerà?
+no-acqua in casa;;;user-input;C'è un problema con l'acqua
+no-acqua in casa;;;user-input;Vorrei fare la doccia ma non c'è più acqua in casa
+no-acqua in casa;;;user-input;Non abbiamo più acqua corrente!
+no-acqua in casa;;;user-input;L'acqua non riesce ad uscire dal rubinetto
+no-acqua in casa;;;user-input;Hanno chiuso l'acqua?
+no-acqua in casa;;;user-input;Mannaggia, siamo rimasti senz'acqua.
+no-acqua in casa;;;user-input;non esce più acqua dal lavandino
+no-acqua in casa;;;user-input;Non possiamo fare la doccia. C'è un guasto all'impianto
+no-acqua in casa;;;user-input;Il bagno non funziona
+no-acqua in casa;;;user-input;Devo chiamare l'idraulico!
+no-acqua in casa;;;user-input;Non esce acqua dal rubinetto
+no-acqua in casa;;;user-input;volevo farmi una doccia  ma a quanto pare manca l'acqua
+no-acqua in casa;;;user-input;In giardino non c'è più acqua! S'è rotto un tubo
+no-acqua in casa;;;user-input;dovrei chiamare un idraulico
+no-acqua in casa;;;user-input;Non viene l'acqua 
+no-acqua in casa;;;user-input;I rubinetti sono a secco. Si sarà rotto un tubo
+no-acqua in casa;;;user-input;Staranno facendo dei lavori?
+;;;;
+cucinare;;;user-input;Cosa preparo per pranzo?
+cucinare;;;user-input;Vado a preparare la cena
+cucinare;;;user-input;Cuciniamo?
+cucinare;;;user-input;Adesso faccio qualcosa da mangiare
+cucinare;;;user-input;Cucino qualcosa
+cucinare;;;user-input;Vado in cucina a preparare qualcosa.
+cucinare;;;user-input;Vado a cucinare
+cucinare;;;user-input;e' ora di preparare la cena
+cucinare;;;user-input;Cucino
+cucinare;;;user-input;È quasi ora di cena, vado a cucinare
+cucinare;;;user-input;Preferite penne o spaghetti?
+cucinare;;;user-input;ho fame ma non ho voglia di cucinare
+cucinare;;;user-input;Devo preparare da mangiare 
+cucinare;;;user-input;ho fame
+cucinare;;;user-input;Cominciamo a cucinare
+cucinare;;;user-input;Devo cucinare
+cucinare;;;user-input;Come era quella ricetta?
+cucinare;;;user-input;Sarà pronto tra mezz'ora più o meno
+cucinare;;;user-input;Ho fame, vado a preparare
+cucinare;;;user-input;Cosa mangiamo?
+cucinare;;;user-input;Dobbiamo mangiare, cucino la cena
+cucinare;;;user-input;Preparo il pranzo
+cucinare;;;user-input;Ho fame, cucino qualcosa.
+cucinare;;;user-input;Inizio a preparare qualcosa
+cucinare;;;user-input;Cosa preferite per cena? Così preparo
+cucinare;;;user-input;Io vado in cucina
+cucinare;;;user-input;Aiutatemi, non voglio avvelenarvi
+cucinare;;;user-input;Spero di salare correttamente la pasta
+cucinare;;;user-input;devo iniziare a preparare qualcosa per la cena di stasera
+cucinare;;;user-input;Mi devo metterò sotto con la cucina
+cucinare;;;user-input;avrò abbastanza ingredienti in casa per cucinare?
+cucinare;;;user-input;Mi metto ai fornelli
+cucinare;;;user-input;Devo cucinare qualche ricetta prelibata
+cucinare;;;user-input;Ho finito il sale!
+cucinare;;;user-input;Va bene se faccio una pasta?
+cucinare;;;user-input;Cosa faccio per cena?
+cucinare;;;user-input;Cosa faccio da mangiare?
+cucinare;;;user-input;Preparo la cena
+cucinare;;;user-input;Preparo la cena
+cucinare;;;user-input;Vuoi qualcosa? Preparo del cibo.
+cucinare;;;user-input;Vado a mettere su qualcosa
+cucinare;;;user-input;Mi devo mettere a preparare qualcosa da mangiare
+cucinare;;;user-input;Preparo qualcosa
+cucinare;;;user-input;Adesso mi metto il grembiule
+cucinare;;;user-input;Sono una cuoca provetta
+cucinare;;;user-input;cuciniamo qualcosa
+cucinare;;;user-input;Mi devo mettere ai fornelli 
+cucinare;;;user-input;sono impedita  a cucinare
+cucinare;;;user-input;Vado in cucina 
+cucinare;;;user-input;Devo mettermi ai fornelli
+cucinare;;;user-input;Dove è quella pentola?
+cucinare;;;user-input;Dov'è la pasta?
+cucinare;;;user-input;è ora di pranzo, vado a cucinare
+cucinare;;;user-input;Cucino qualcosa!
+cucinare;;;user-input;Mi metto a cucinare
+cucinare;;;user-input;Faccio da mangiare
+cucinare;;;user-input;Ho fame, mi faccio qualcosa.
+cucinare;;;user-input;Vado a preparare qualcosa da mangiare
+cucinare;;;user-input;Mi fai compagnia mentre cucino?
+cucinare;;;user-input;Faccio da mangiare
+cucinare;;;user-input;Vi preparo un bel pranzo
+cucinare;;;user-input;Stasera cucino io
+cucinare;;;user-input;c'è qualcosa in frigo?
+cucinare;;;user-input;Dovrei cucinare un po' di carne 
+cucinare;;;user-input;non ho voglia di cucinare
+cucinare;;;user-input;Mi servono alcuni ingredienti per cucinare 
+cucinare;;;user-input;Spero ci sia qualcosa da cucinare
+cucinare;;;user-input;Mi manca un ingrediente.
+cucinare;;;user-input;Non ho voglia di cucinare
+cucinare;;;user-input;Ho voglia di cucinare
+cucinare;;;user-input;Mi metto a cucinare!
+cucinare;;;user-input;Devo preparare qualcosa da mangiare
+cucinare;;;user-input;Devo cucinare
+cucinare;;;user-input;Cosa vuoi che cucini?
+cucinare;;;user-input;Inizio a mettere su l'acqua per la pasta
+cucinare;;;user-input;Cosa mangiamo stasera? Così mi metto a farlo
+cucinare;;;user-input;Vado a cucinare
+cucinare;;;user-input;Mi metto all'opera !
+cucinare;;;user-input;Spero vi piaccia la mia cucina
+cucinare;;;user-input;cucinerei ma in casa non c'è niente da mangiare...
+cucinare;;;user-input;Devo accendere i fornelli e cucinare qualcosa di buono 
+cucinare;;;user-input;cucino qualcosa di fresco o di caldo?
+cucinare;;;user-input;Preparo qualcosa, Alfred 
+cucinare;;;user-input;Vado a cucinarmi qualcosa
+cucinare;;;user-input;Devo andare a fare la spesa
+;;;;
+news;;;user-input;Notizie dal mondo?
+news;;;user-input;Cosa sta succedendo nel mondo?
+news;;;user-input;Cosa succede nel mondo?
+news;;;user-input;Devo leggere il giornale
+news;;;user-input;Guardiamo il TG
+news;;;user-input;Vado a comprare il giornale.
+news;;;user-input;Sapete se oggi è successo qualcosa?
+news;;;user-input;Cosa è successo oggi nel mondo?
+news;;;user-input;Che si dice di nuovo?
+news;;;user-input;Non guardo il telegiornale da tanto, devo aggiornarmi
+news;;;user-input;A che ora è il tg
+news;;;user-input;cosa succede nel mondo?
+news;;;user-input;Devo guardare il tg
+news;;;user-input;chissà che news ci sono oggi
+news;;;user-input;Vediamo che succede nel mondo
+news;;;user-input;Devo aggiornarmi sull’attualità 
+news;;;user-input;Chissà cosa succede oggi?
+news;;;user-input;Hai sentito le notizie di oggi?
+news;;;user-input;Non ho idea di cosa sia accaduto in Italia oggi
+news;;;user-input;Che notizie ci sono?
+news;;;user-input;Accendo la televisione per sapere le notizie
+news;;;user-input;Cerco su internet
+news;;;user-input;Prendo il giornale, così sarò più informata.
+news;;;user-input;avete letto il giornale oggi?
+news;;;user-input;Voglio informarmi sui fatti di questa giornata
+news;;;user-input;Sono un cavernicolo, non so cosa sta succedendo là fuori
+news;;;user-input;Il giornale oggi è in offerta
+news;;;user-input;hai letto i giornali oggi?
+news;;;user-input;Dovrei controllare il telegiornale di oggi
+news;;;user-input;controlliamo un po' cosa dice la bbc
+news;;;user-input;Vediamo il giornale cosa dice
+news;;;user-input;Leggo sul giornale per sapere gli ultimi eventi
+news;;;user-input;Hai sentito le ultime?
+news;;;user-input;Hai comprato il giornale?
+news;;;user-input;Devo sapere cosa sta capitando attualmente
+news;;;user-input;Vado a vedere cosa è successo oggi nel mondo!
+news;;;user-input;Mamma metti il telegiornale
+news;;;user-input;Mi servirebbe sapere questa cosa
+news;;;user-input;Sono proprio fuori dal mondo, mi devo informare sull'attualità.
+news;;;user-input;é successo qualcosa oggi?
+news;;;user-input;Cosa hanno al telegiornale di stamattina?
+news;;;user-input;Cerco qualche evento in città a cui possiamo partecipare
+news;;;user-input;Non ho ancora sentito le notizie di oggi
+news;;;user-input;voglio sempre essere informato su cosa succede intorno a me
+news;;;user-input;Dovrei vedere sul telefono se sia successo qualcosa di importante oggi
+news;;;user-input;non ho ancora letto le news oggi
+news;;;user-input;Vediamo cosa si dice sul web
+news;;;user-input;Chissà cosa sta succedendo
+news;;;user-input;Non ho ancora visto il tg oggi.
+news;;;user-input;Hai visto il telegiornale?
+news;;;user-input;Devo informarmi sugli eventi di attualità
+news;;;user-input;Cosa dicono i giornali?
+news;;;user-input;Cerco Delle notizie su internet
+news;;;user-input;Prendo il giornale
+news;;;user-input;Voglio essere informata sull'attualità.
+news;;;user-input;Avete visto il telegiornale oggi?
+news;;;user-input;Avete notizie di oggi?
+news;;;user-input;mi dispiace, ma davvero, non direi nulla, anche volendomi informare non vedo alcun motivo per cui dovrei dire qualcosa
+news;;;user-input;Chissa come è finita la partita di calcio?
+news;;;user-input;L'applicazione di googl edicola è utile
+news;;;user-input;qualche nuova notizia?
+news;;;user-input;Dovrei cercare gli eventi di oggi sul web
+news;;;user-input;quasi quasi guardo il telegiornale
+news;;;user-input;Alfred, novità interessanti? 
+news;;;user-input;Accendo il tg: voglio sapere cosa succede
+news;;;user-input;Che accadrà oggi?
+news;;;user-input;E' successo qualcosa di interessante ?
+news;;;user-input;Voglio scoprire le notizie di attualità
+news;;;user-input;Di cosa parlano i telegiornali?
+news;;;user-input;Ascolto la radio per conoscere le notizie
+news;;;user-input;Leggo il giornale
+news;;;user-input;Mi informo su Internet.
+news;;;user-input;Cosa è successo oggi?
+news;;;user-input;Che novità ci sono ?
+news;;;user-input;Dovrei comprare dei giornali
+news;;;user-input;Sto guardo il tg
+news;;;user-input;ora mi cerco due notizie
+news;;;user-input;Dovrei leggere il giornale di oggi
+news;;;user-input;che casini saranno successi nel mondo oggi 
+news;;;user-input;Sintonizziamoci sul telegiornale 
+news;;;user-input;Dovrei sapere di più sugli eventi di attualità 
+news;;;user-input;Niente di nuovo?
+;;;;
+guarda-tv;;;user-input;Che film guardiamo?
+guarda-tv;;;user-input;Voglio vedere un film
+guarda-tv;;;user-input;Mi guardo un film!
+guarda-tv;;;user-input;Ho voglia di vedere un film
+guarda-tv;;;user-input;Voglio vedere la TV
+guarda-tv;;;user-input;Ho proprio voglia di vedere questa serie.
+guarda-tv;;;user-input;Guardiamo un film?
+guarda-tv;;;user-input;Non vedo l'ora che cominci
+guarda-tv;;;user-input;Guardiamo un film
+guarda-tv;;;user-input;Devo recuperare qualche episodio di quella serie
+guarda-tv;;;user-input;Per fortuna ho netflix
+guarda-tv;;;user-input;voglio vedere un film
+guarda-tv;;;user-input;Vorrei finire quel film che avevo iniziato 
+guarda-tv;;;user-input;quasi quasi accendo la tivù
+guarda-tv;;;user-input;Vediamo cosa c'è di bello in tv
+guarda-tv;;;user-input;Vorrei guardare un film
+guarda-tv;;;user-input;Ci vorebbe un bel film.
+guarda-tv;;;user-input;Ci guardiamo un film insieme?
+guarda-tv;;;user-input;Stasera esce il film del mio attore preferito
+guarda-tv;;;user-input;Ti va di vedere un film?
+guarda-tv;;;user-input;Che film vuoi vedere?
+guarda-tv;;;user-input;Apro Netflix
+guarda-tv;;;user-input;Non vedo l'ora di vedere che succede in questa serie.
+guarda-tv;;;user-input;Avete una serie tv da consigliarmi?
+guarda-tv;;;user-input;Accendiamo la tv: cominciano i nuovi episodi
+guarda-tv;;;user-input;Filmetto?
+guarda-tv;;;user-input;È uscita la nuova puntata di questa serie
+guarda-tv;;;user-input;I film gialli sono i miei preferiti
+guarda-tv;;;user-input;ho proprio voglia di rilassarmi con un bel film
+guarda-tv;;;user-input;Oggi c'è la mia serie preferita in tv
+guarda-tv;;;user-input;vediamo cosa c'è di nuovo su netflix
+guarda-tv;;;user-input;Che noia, mettiamo sul canale dei film
+guarda-tv;;;user-input;Vediamo che film c’è in programmazione
+guarda-tv;;;user-input;Chissà che c'e' oggi in tv.
+guarda-tv;;;user-input;Cosa danno in tv questa sera?
+guarda-tv;;;user-input;C'è una bella serie tv in televisione
+guarda-tv;;;user-input;Voglio vedere un film!
+guarda-tv;;;user-input;Mettiamo una nuova serie ?
+guarda-tv;;;user-input;Accendo la TV
+guarda-tv;;;user-input;Per staccare un po' mi serve un film.
+guarda-tv;;;user-input;Avete un film da consigliarmi?
+guarda-tv;;;user-input;E' uno dei film migliori. Non bisogna perderlo in tv
+guarda-tv;;;user-input;Film?
+guarda-tv;;;user-input;Devo recensire questo film, guardiamolo
+guarda-tv;;;user-input;Oggi maratona film
+guarda-tv;;;user-input;voglio iniziare una nuova serie tv 
+guarda-tv;;;user-input;Questa serie dev'essere bellissima 
+guarda-tv;;;user-input;finalmente posso vedere l'ultimo film del mio regista preferito
+guarda-tv;;;user-input;Alfred, ci guardiamo un film? 
+guarda-tv;;;user-input;Guardiamo una serie tv o un film
+guarda-tv;;;user-input;Potrei guardare una serie Tv.
+guarda-tv;;;user-input;Ti va di guardare Stranger Things?
+guarda-tv;;;user-input;Mi annoio, devo scegliere un film
+guarda-tv;;;user-input;Ci guardiamo un film?
+guarda-tv;;;user-input;Mi piacerebbe vedere un film
+guarda-tv;;;user-input;Vorrei vedere un film
+guarda-tv;;;user-input;Ora mi guardo un film.
+guarda-tv;;;user-input;Conoscete qualche film carino da vedere?
+guarda-tv;;;user-input;Ti piace questa serie? La guardiamo?
+guarda-tv;;;user-input;Tv?
+guarda-tv;;;user-input;Non troveremo mai un film che non abbiamo già visto tutti
+guarda-tv;;;user-input;Adoro le serie tv
+guarda-tv;;;user-input;in tv non c'è niente, guarderò netflix
+guarda-tv;;;user-input;Vorrei vedere questo film che è uscito da poco
+guarda-tv;;;user-input;mi son persa l'ultimo episodio della mia serie preferita
+guarda-tv;;;user-input;Accendiamo il computer e guardiamo una serie 
+guarda-tv;;;user-input;Potrei guardare una serie tv
+guarda-tv;;;user-input;Ci starebbe un episodio.
+guarda-tv;;;user-input;Cosa potremmo guardare?
+guarda-tv;;;user-input;Guardiamo qualcosa in televisione
+guarda-tv;;;user-input;Ti va se ci guardiamo un film?
+guarda-tv;;;user-input;Cosa hai voglia di vedere alla tivù?
+guarda-tv;;;user-input;Guardo qualcosa
+guarda-tv;;;user-input;Ho bisogno di vedere un film.
+guarda-tv;;;user-input;Mi consigliate un film?
+guarda-tv;;;user-input;In tv stanno per trasmettere una prima visione del film che ho perso al cinema
+guarda-tv;;;user-input;Netflix?
+guarda-tv;;;user-input;Questo film è molto acclamato dalla critica
+guarda-tv;;;user-input;Il signore degli anelli quando inizia?
+guarda-tv;;;user-input;ora mi guardo la nuova serie di sky
+guarda-tv;;;user-input;Sta sera si guarda il mio film preferito 
+guarda-tv;;;user-input;controllo l'indice programmi così vedo se c'è qualcosa che mi interessa
+guarda-tv;;;user-input;Sul canale delle serie ci sarà qualcosa di interessante? 
+guarda-tv;;;user-input;Quale serie tv staranno trasmettendo?
+guarda-tv;;;user-input;Speriamo ci sia qualcosa di interessante.
+;;;;
+svago-relax;;;user-input;Cosa potrei fare per svagarmi?
+svago-relax;;;user-input;Necessito di molto relax
+svago-relax;;;user-input;Ho bisogno di riposarmi!
+svago-relax;;;user-input;Non voglio pensare a niente oggi
+svago-relax;;;user-input;Mi serve un po' di relax!
+svago-relax;;;user-input;Andiamo a fare qualcosa, voglio svagarmi.
+svago-relax;;;user-input;Ho bisogno di un periodo di riposo
+svago-relax;;;user-input;Accendi lo stereo. A questo punto ci vuole un pò di buona musica per distrarsi
+svago-relax;;;user-input;Che stanchezza
+svago-relax;;;user-input;Potremmo andare a correre per svagarci
+svago-relax;;;user-input;Facciamo un break
+svago-relax;;;user-input;cosa potrei fare per passare il tempo?
+svago-relax;;;user-input;Vorrei prendere un po' di sole in spiaggia 
+svago-relax;;;user-input;ora mi piazzo sul divano e cazzeggio
+svago-relax;;;user-input;Voglio spassarmela
+svago-relax;;;user-input;Devo staccare un po’: spero di rilassarmi
+svago-relax;;;user-input;Ho voglia di fare qualcosa di divertente.
+svago-relax;;;user-input;Ho bisogno di rilassarmi un po'
+svago-relax;;;user-input;Cosa posso fare per svagarmi?
+svago-relax;;;user-input;Mi riposo un momento!
+svago-relax;;;user-input;Vorrei tanto rilassarmi tutto il giorno
+svago-relax;;;user-input;Stacco un attimo
+svago-relax;;;user-input;Ora mi rilasso.
+svago-relax;;;user-input;Ho bisogno di una vacanza
+svago-relax;;;user-input;Mi piacerebbe fare una partita a carte
+svago-relax;;;user-input;Ho bisogno di staccare un po'
+svago-relax;;;user-input;Sono stanca, oggi non voglio alzare un dito
+svago-relax;;;user-input;Quasi quasi mi faccio un bagno
+svago-relax;;;user-input;non ne posso più, sono troppo stressato, devo rilassarmi
+svago-relax;;;user-input;Potrei fare un pisolino
+svago-relax;;;user-input;potrei giocare un po' ai videogiochi
+svago-relax;;;user-input;Ho bisogno di svagarmi 
+svago-relax;;;user-input;Vorrei svagarmi
+svago-relax;;;user-input;Sono proprio stanco.
+svago-relax;;;user-input;Facciamo qualcosa di rilassante?
+svago-relax;;;user-input;Ho davvero necessità di fare una pausa
+svago-relax;;;user-input;Voglio prendermi una pausa!
+svago-relax;;;user-input;Ho bisogno di una pausa relax
+svago-relax;;;user-input;Mi serve una pausa
+svago-relax;;;user-input;Sono affaticata, devo rilassarmi.
+svago-relax;;;user-input;Ci vorrebbe un bel massaggio rilassante
+svago-relax;;;user-input;Se mi passi il cruciverba, ne facciamo uno insieme
+svago-relax;;;user-input;Giochiamo a qualcosa?
+svago-relax;;;user-input;È una bella giornata per un po' di mare e relax
+svago-relax;;;user-input;Sono stanca
+svago-relax;;;user-input;ahhh, finalmente un po'di relax!
+svago-relax;;;user-input;Potrei ascoltare un po' di musica
+svago-relax;;;user-input;mi va di suonare un po' non ho più voglia di lavorare
+svago-relax;;;user-input;Adesso mi rilasso un po' 
+svago-relax;;;user-input;Ho bisogno di un po’ di relax
+svago-relax;;;user-input;Sono a pezzi.
+svago-relax;;;user-input;Mi riposo un po'
+svago-relax;;;user-input;Devo riuscire a pensare ad altro
+svago-relax;;;user-input;Mi prendo un attimo per svagarmi!
+svago-relax;;;user-input;Ora mi stendo e mi rilasso
+svago-relax;;;user-input;Voglio riposarmi
+svago-relax;;;user-input;Voglio svagarmi un po'.
+svago-relax;;;user-input;Ho bisogno di una pausa
+svago-relax;;;user-input;Vorrei leggere il mio best seller preferito
+svago-relax;;;user-input;Ho bisogno di sbattere
+svago-relax;;;user-input;Ho bisogno di leggere un libro per rilassarmi
+svago-relax;;;user-input;Ho voglia di un massaggio
+svago-relax;;;user-input;sono stanchissimo, mi rilasso un po' e poi me ne vado a dormire
+svago-relax;;;user-input;Vorrei leggere un bel libro 
+svago-relax;;;user-input;vediamo se trovo qualche video divertente
+svago-relax;;;user-input;Ho voglia di divertirmi
+svago-relax;;;user-input;Se non stacco impazzisco
+svago-relax;;;user-input;Non ce la faccio più.
+svago-relax;;;user-input;Vado a camminare per svagarmi
+svago-relax;;;user-input;Ho bisogno di rilassarmi
+svago-relax;;;user-input;Voglio rilassarmi un po'!
+svago-relax;;;user-input;Ho bisogno di rilassarmi un po'
+svago-relax;;;user-input;Voglio rilassarmi
+svago-relax;;;user-input;Devo staccare la spina, rilassarmi un po'.
+svago-relax;;;user-input;Facciamo una passeggiata?
+svago-relax;;;user-input;Sento il bisogno di un pò di relax
+svago-relax;;;user-input;Che stress
+svago-relax;;;user-input;Mi farei un sonnellino volentieri
+svago-relax;;;user-input;Ho proprio bisogno di fare una pausa
+svago-relax;;;user-input;ho lavorato tutto il giorno, ora mi voglio rilassare
+svago-relax;;;user-input;Dovrei guardare un bel film tranquillo
+svago-relax;;;user-input;ora mi riposo un po'
+svago-relax;;;user-input;Alfred, giochiamo? 
+svago-relax;;;user-input;Devo rilassarmi
+svago-relax;;;user-input;Ho bisogno di staccare.
+;;;;
+noia;;;user-input;Tu non ti stai annoiando?
+noia;;;user-input;Che palle, mi annoio
+noia;;;user-input;Che noia mortale!
+noia;;;user-input;Sono così annoiata
+noia;;;user-input;Uffa!
+noia;;;user-input;Facciamo qualcosa, muoio dalla noia.
+noia;;;user-input;Sto morendo di noia
+noia;;;user-input;Che pizza questo tempo uggioso
+noia;;;user-input;Sembra domenica
+noia;;;user-input;Che barba
+noia;;;user-input;che barba, che noia!
+noia;;;user-input;Non trovo un modo per passare il tempo 
+noia;;;user-input;adesso prendo qualcosa per divertirmi
+noia;;;user-input;Mi viene da sbadigliare dalla noia
+noia;;;user-input;Non so cosa fare: che noia
+noia;;;user-input;Che giornata noiosa!
+noia;;;user-input;Non so cosa fare
+noia;;;user-input;Che noia in questa casa
+noia;;;user-input;Uffa, che palle!
+noia;;;user-input;Sono molto annoiata, non so cosa fare
+noia;;;user-input;Non ne posso più
+noia;;;user-input;Mi sto annoiando molto.
+noia;;;user-input;Facciamo qualcosa?
+noia;;;user-input;Che barba stare in casa tutto il giorno
+noia;;;user-input;Che palle
+noia;;;user-input;Che barba !
+noia;;;user-input;Facciamo qualcosa
+noia;;;user-input;queste giornate sono tutte uguali
+noia;;;user-input;Non so che fare oggi 
+noia;;;user-input;devo fare qualcosa
+noia;;;user-input;Mi sto annoiando 
+noia;;;user-input;Mi annoio
+noia;;;user-input;Che barba!
+noia;;;user-input;Mi sto rompendo qui
+noia;;;user-input;Non c'è nulla da fare in casa
+noia;;;user-input;Mi sto annoiando a morte!
+noia;;;user-input;Mi sono rotta di stare qui a non far niente
+noia;;;user-input;Non so che fare
+noia;;;user-input;Non ho niente da fare.
+noia;;;user-input;Dobbiamo trovare qualcosa da fare
+noia;;;user-input;Mi sto annoiando
+noia;;;user-input;Qualcosa da fare?
+noia;;;user-input;Questo tempo mi fa passare la voglia di fare cose
+noia;;;user-input;Questo film è noiosissimo
+noia;;;user-input;dovrei trovarmi qualcosa da fare, mi annoio
+noia;;;user-input;È da un ora che guardo il muro 
+noia;;;user-input;vediamo se c'è qualcosa di interessante da fare
+noia;;;user-input;Mi sento solo
+noia;;;user-input;La noia mi sta ammazzando
+noia;;;user-input;Non so che fare!
+noia;;;user-input;Non c'è nulla di divertente
+noia;;;user-input;La vita è troppo monotona
+noia;;;user-input;Non so che fare!
+noia;;;user-input;Non ho voglia di fare niente
+noia;;;user-input;Che rottura
+noia;;;user-input;Non so cosa fare, mi annoio.
+noia;;;user-input;Non c'è nulla da fare
+noia;;;user-input;Non mi sto divertendo per nulla. Voi?
+noia;;;user-input;Uff
+noia;;;user-input;Non so cosa fare
+noia;;;user-input;Odio stare a casa quando piove
+noia;;;user-input;è una noia mortale
+noia;;;user-input;Sto morendo di noia
+noia;;;user-input;ci sarà qualcosa da fare in casa
+noia;;;user-input;Sto morendo di noia
+noia;;;user-input;Che barba che noia, che noia che barba
+noia;;;user-input;Che giornata monotona!
+noia;;;user-input;Che noia
+noia;;;user-input;Mi annoio
+noia;;;user-input;Che noia!
+noia;;;user-input;Non c'è la faccio più a stare in casa
+noia;;;user-input;Che noia!
+noia;;;user-input;Che noia oggi.
+noia;;;user-input;Che noia
+noia;;;user-input;Non so cosa fare. Avete idee?
+noia;;;user-input;Che noia
+noia;;;user-input;Mi annoio
+noia;;;user-input;Che noia
+noia;;;user-input;che noia, non so che fare
+noia;;;user-input;Non c'è niente da fare
+noia;;;user-input;mi annoio
+noia;;;user-input;Che noia 
+noia;;;user-input;Che noia
+noia;;;user-input;Che noia!
+;;;;
+no-sonno;;;user-input;Sono troppo emozionato per dormire
+no-sonno;;;user-input;Ho bisogno di dormire ma non ci riesco
+no-sonno;;;user-input;Non ho sonno!
+no-sonno;;;user-input;Non mi trovo
+no-sonno;;;user-input;Sono agitato
+no-sonno;;;user-input;Che fastidio, non riesco ad addormentarmi.
+no-sonno;;;user-input;C'è troppo rumore per dormire
+no-sonno;;;user-input;Mi giro e rigiro nel letto senza dormire
+no-sonno;;;user-input;Ho troppi pensieri per la testa
+no-sonno;;;user-input;Sono agitata
+no-sonno;;;user-input;fa troppo caldo, non riesco a prendere sonno
+no-sonno;;;user-input;C'è troppo caldo, non riesco a dormire 
+no-sonno;;;user-input;se metto del rumore bianco mi viene sonno sicuro
+no-sonno;;;user-input;Mi giro e rigiro nel letto ma non mi addormento
+no-sonno;;;user-input;Vorrei addormentarmi
+no-sonno;;;user-input;C'e' della camomilla?
+no-sonno;;;user-input;Non riesco a prendere sonno
+no-sonno;;;user-input;Come faccio a prendere sonno?
+no-sonno;;;user-input;Non riesco a prendere sonno!
+no-sonno;;;user-input;Non riesco ad addormentarmi
+no-sonno;;;user-input;Non ho sonno
+no-sonno;;;user-input;Ho l'insonnia.
+no-sonno;;;user-input;Non riesco a prendere sonno
+no-sonno;;;user-input;Non ho chiuso occhio dalle due
+no-sonno;;;user-input;Non riesco a chiudere occhio
+no-sonno;;;user-input;Con questo caldo non riesco a dormire
+no-sonno;;;user-input;non riesco a prendere sonno
+no-sonno;;;user-input;Ho bevuto troppo caffè oggi
+no-sonno;;;user-input;dovrei provare a rilassarmi
+no-sonno;;;user-input;Non riesco a prendere sonno
+no-sonno;;;user-input;Sono troppo sveglio! Vorrei dormire
+no-sonno;;;user-input;Eppure oggi ero così stanco!
+no-sonno;;;user-input;Ho troppi pensieri per la testa
+no-sonno;;;user-input;Non mi sto addormentando
+no-sonno;;;user-input;Non riesco ad addormentarmi!
+no-sonno;;;user-input;Soffro d'insonnia
+no-sonno;;;user-input;Non riesco a prendere sonno
+no-sonno;;;user-input;Vorrei dormire, ma non riesco.
+no-sonno;;;user-input;Fa troppo caldo per dormire
+no-sonno;;;user-input;Non riesco a prender sonno
+no-sonno;;;user-input;Sono scomoda
+no-sonno;;;user-input;C'è troppo rumore
+no-sonno;;;user-input;non ne posso più, sono ore che mi rigiro nel letto
+no-sonno;;;user-input;Dovevo svegliarmi prima.. Ora non ho sonno 
+no-sonno;;;user-input;magari se ascolto un audiolibro mi addormento
+no-sonno;;;user-input;Sono troppo sveglio
+no-sonno;;;user-input;Non riesco a dormire
+no-sonno;;;user-input;Che scomodo questo letto.
+no-sonno;;;user-input;Non riesco a dormire
+no-sonno;;;user-input;Non riesco a dormire
+no-sonno;;;user-input;Non riesco a dormire!
+no-sonno;;;user-input;Non riesco a chiudere occhio
+no-sonno;;;user-input;Non riesco a dormire
+no-sonno;;;user-input;Non riesco a dormire.
+no-sonno;;;user-input;Non riesco a dormire
+no-sonno;;;user-input;Tu dormi ?
+no-sonno;;;user-input;Uffa non riesco a dormire
+no-sonno;;;user-input;Soffro di insonnia
+no-sonno;;;user-input;Quasi quasi mi faccio una camomilla
+no-sonno;;;user-input;non riesco a dormire
+no-sonno;;;user-input;Non ho sonno
+no-sonno;;;user-input;non riesco a dormire
+no-sonno;;;user-input;Stanotte non riesco a dormire 
+no-sonno;;;user-input;Non riesco a prendere sonno
+no-sonno;;;user-input;Si prospetta una notte in bianco!
+no-sonno;;;user-input;In questa casa ci sono troppi rumori
+no-sonno;;;user-input;Sono assonnata ma non riesco ad addormentarmi
+no-sonno;;;user-input;Non ho voglia di dormire!
+no-sonno;;;user-input;Non riesco ad addormentarmi
+no-sonno;;;user-input;Non riesco a rilassarmi
+no-sonno;;;user-input;Non so come mai, ma non dormo.
+no-sonno;;;user-input;C'è troppa luce per dormire
+no-sonno;;;user-input;E' da un'ora che sono in letto e sono ancora sveglio
+no-sonno;;;user-input;Sono in ansia per domani
+no-sonno;;;user-input;Sto subendo ancora l'effetto del jet lag
+no-sonno;;;user-input;sono così stanco che non riesco a dormire!
+no-sonno;;;user-input;C'è una zanzara che non mi fa dormire 
+no-sonno;;;user-input;mi passasse sta insonnia
+no-sonno;;;user-input;Alfred, sono insonne
+no-sonno;;;user-input;L’insonnia mi tormenta
+no-sonno;;;user-input;Notte insonne!
+;;;;
+troppo-silenzio;;;user-input;Non mi piace tutto questo silenzio
+troppo-silenzio;;;user-input;La quiete in questa stanza è eccessiva
+troppo-silenzio;;;user-input;Non si sente un rumore!
+troppo-silenzio;;;user-input;Che cosa state facendo? Dove siete?
+troppo-silenzio;;;user-input;C'è qualcuno in casa?
+troppo-silenzio;;;user-input;Che tranquillità!
+troppo-silenzio;;;user-input;Mettiamo un po' di musica in sottofondo
+troppo-silenzio;;;user-input;Dimmi qualcosa. Questo silenzio mi da fastidio alle orecchie
+troppo-silenzio;;;user-input;È fastidioso questo silenzio
+troppo-silenzio;;;user-input;Non amate fare conversazione?
+troppo-silenzio;;;user-input;con queste nuove finestre c'è un silenzio assoluto
+troppo-silenzio;;;user-input;Non si sente nemmeno un battito d'ali
+troppo-silenzio;;;user-input;mi sento solo mi piacerebbe ci fosse un po' di rumore
+troppo-silenzio;;;user-input;Non vola una mosca
+troppo-silenzio;;;user-input;C’è troppo silenzio
+troppo-silenzio;;;user-input;Che silenzio!
+troppo-silenzio;;;user-input;C'è un silenzio imbarazzante
+troppo-silenzio;;;user-input;Non vola una mosca in questa stanza
+troppo-silenzio;;;user-input;Che pace che c'è!
+troppo-silenzio;;;user-input;Non si sente volare una mosca!
+troppo-silenzio;;;user-input;Come mai c'è così tanto silenzio?
+troppo-silenzio;;;user-input;Questo silenzio mi fa angosciare.
+troppo-silenzio;;;user-input;C'è troppo silenzio
+troppo-silenzio;;;user-input;Non si sente volare una mosca
+troppo-silenzio;;;user-input;Rompiamo il ghiaccio
+troppo-silenzio;;;user-input;Non si sente volare una mosca
+troppo-silenzio;;;user-input;c'è troppo silenzio, dovrei mettere un po'di musica
+troppo-silenzio;;;user-input;Non vola una mosca
+troppo-silenzio;;;user-input;c'è troppo silenzio
+troppo-silenzio;;;user-input;Nessun rumore
+troppo-silenzio;;;user-input;C’è un silenzio assordante 
+troppo-silenzio;;;user-input;Sembra un cimitero!
+troppo-silenzio;;;user-input;Mi fischiano le orecchie dal silenzio
+troppo-silenzio;;;user-input;C'è troppa calma in questa casa
+troppo-silenzio;;;user-input;Che tranquillità!
+troppo-silenzio;;;user-input;Perché non mi parla nessuno?
+troppo-silenzio;;;user-input;Ehi!
+troppo-silenzio;;;user-input;Non si muove una foglia.
+troppo-silenzio;;;user-input;Non vola una mosca
+troppo-silenzio;;;user-input;C'è un silenzio tombale
+troppo-silenzio;;;user-input;Un po' di musica di sottofondo non sarebbe male
+troppo-silenzio;;;user-input;C'è un silenzio di tomba
+troppo-silenzio;;;user-input;che silenzio...
+troppo-silenzio;;;user-input;Non c'è una bava di vento 
+troppo-silenzio;;;user-input;che depressione sta casa
+troppo-silenzio;;;user-input;Non c'è nessuno
+troppo-silenzio;;;user-input;Questo silenzio è assordante
+troppo-silenzio;;;user-input;C'e' troppo silenzio.
+troppo-silenzio;;;user-input;Non c'è troppo silenzio?
+troppo-silenzio;;;user-input;Non mi piace questa totale assenza di rumore
+troppo-silenzio;;;user-input;Non vola una mosca!
+troppo-silenzio;;;user-input;È tutto così silenzioso
+troppo-silenzio;;;user-input;C'è qualcuno sveglio?
+troppo-silenzio;;;user-input;Finalmente un bel silenzio.
+troppo-silenzio;;;user-input;Che silenzio
+troppo-silenzio;;;user-input;Il silenzio fa quasi rumore
+troppo-silenzio;;;user-input;Riesco a sentire gocciolare il rubinetto
+troppo-silenzio;;;user-input;C'è troppo silenzio
+troppo-silenzio;;;user-input;non vola una mosca
+troppo-silenzio;;;user-input;Sembra che non ci sia anima viva qui
+troppo-silenzio;;;user-input;mi piacerebbe sentire un po' di casino
+troppo-silenzio;;;user-input;Che silenzio
+troppo-silenzio;;;user-input;Silenzio di tomba
+troppo-silenzio;;;user-input;Tutto tace?
+troppo-silenzio;;;user-input;Che silenzio
+troppo-silenzio;;;user-input;C'è troppo silenzio
+troppo-silenzio;;;user-input;Che silenzio!
+troppo-silenzio;;;user-input;Ehiiiii c'è qualcunoooo
+troppo-silenzio;;;user-input;Che silenzio!
+troppo-silenzio;;;user-input;Che silenzio!
+troppo-silenzio;;;user-input;C'è un silenzio inquietante
+troppo-silenzio;;;user-input;E' nato un frate
+troppo-silenzio;;;user-input;Che silenzio imbarazzante
+troppo-silenzio;;;user-input;I silenzi mi imbarazzano
+troppo-silenzio;;;user-input;c'è un silenzio di tomba
+troppo-silenzio;;;user-input;Non si sente un suono 
+troppo-silenzio;;;user-input;mettiamo un po' di musica
+troppo-silenzio;;;user-input;Questo silenzio è inquietante 
+troppo-silenzio;;;user-input;Che silenzio
+troppo-silenzio;;;user-input;Non vola una mosca!
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
