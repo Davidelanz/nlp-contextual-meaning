@@ -1,6 +1,4 @@
-<center>
-  <img width="200" src="images/logo.png">
-</center>
+<img width="200" src="images/logo.png">
 
 ## Getting started
 
@@ -13,16 +11,16 @@ Briefly:
 
 1. Start creating a new DialogFlow agent and the related Google project:
 
-<img width="400" src="images/create_agent.png">
+<img width="500" src="images/create_agent.png">
 
 Now, you should have an empty agent with the only `Default` intent:
 
-<img width="400" src="images/empty_agent.png">
+<img width="500" src="images/empty_agent.png">
 
 2. Go to tour [Google Cloud Platform](https://console.cloud.google.com/)
    console. You should find the related project:
 
-<img width="600" src="images/googlecloud_project.png">
+<img width="700" src="images/googlecloud_project.png">
 
 3. Following the instructions in
    https://cloud.google.com/dialogflow/docs/quick/setup, create a Service
@@ -68,11 +66,11 @@ python dataset/csv_to_json.py
 
 2. Upload the 21 `.json` files created to DialogFlow:
 
-<img width="500" src="images/upload_intents.png">
+<img width="600" src="images/upload_intents.png">
 
 3. At the end, you should have a situation like the one here in the picture:
 
-<img width="400" src="images/intents_uploaded.png">
+<img width="500" src="images/intents_uploaded.png">
 
 ### Run a demo
 
