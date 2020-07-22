@@ -6,7 +6,7 @@
 
 Website: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
-**Documentation**: [nlp-contextual-meaning.readthedocs.io](https://nlp-contextual-meaning.readthedocs.io/)
+**Documentation**: [nlp-contextual-meaning.rtfd.io](https://nlp-contextual-meaning.readthedocs.io/)
 
 ---
 
