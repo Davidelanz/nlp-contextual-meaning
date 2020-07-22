@@ -4,6 +4,10 @@
 
 ---
 
+<a href='https://nlp-contextual-meaning.readthedocs.io/en/latest/?badge=latest'>
+    <img src='https://readthedocs.org/projects/nlp-contextual-meaning/badge/?version=latest' alt='Documentation Status' />
+</a>
+
 Website: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
 **Documentation**: [nlp-contextual-meaning.rtfd.io](https://nlp-contextual-meaning.readthedocs.io/)
