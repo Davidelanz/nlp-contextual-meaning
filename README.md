@@ -1,12 +1,15 @@
-<img width="200" src="images/logo.png">
+<p align="center"> 
+   <img width="200" src="images/logo.png">
+</p>
 
 1. [Getting started](#getting-started)
    1. [Setting up DialogFlow](#setting-up-dialogflow)
-   1. [The `settings.json` file](#the-settings.json-file)
+   1. [The `settings.json` file](#the-settingsjson-file)
    1. [Prepare the dataset](#prepare-the-dataset)
    1. [Run a demo](#run-a-demo)
 1. [Client](#client)
 1. [Change the language](#change-the-language)
+1. [References](#references)
 
 # Getting started
 
