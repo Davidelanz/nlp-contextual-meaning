@@ -91,6 +91,7 @@ situation={out_intent[index]} (score={score})")
         now = time.strftime("%Y%m%d-%H%M%S")
         logging.debug(f"client activity started at {now}")
 
+        print("""\n-----------------------------------------------""")
         user_input = input("\\INPUT > ")
         logging.debug(f"\\INPUT > {user_input}")
 
@@ -136,19 +137,18 @@ situation={out_intent[index]} (score={score})")
                 logging.debug("start disambiguating")
                 query = self.context["queries"][max_idx[0]]
                 if self.ask_question(f"Robot: {query}") == 'y':
-                    reaction = self.context["reaction"][max_idx[0]]
+                    reaction = self.context["reactions"][max_idx[0]]
                     print(f"Robot: {reaction}")
                     logging.debug(f"Robot: {reaction}")
                     break  # Exit the loop when reacting
                 else:
                     probs[max_idx[0]] = 0
 
-        input("Press Enter to continue...")
+        print("""-----------------------------------------------\n""")
 
 
 if __name__ == '__main__':
     # nltk.download('stopwords')
 
-    print("""\n-----------------------------------------------\n""")
     client = Client()
     client.main()
