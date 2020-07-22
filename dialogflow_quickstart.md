@@ -1,7 +1,4 @@
-
 # Quickstart: Setup
-
-<div class="devsite-article-body clearfix"><style>:root{--df-gcp-diagram-blue: #e1f6fe;--df-gcp-diagram-blue-dark: #04579b;--df-gcp-diagram-green: #e2f3ec;--df-gcp-diagram-yellow: #fef7e0;--df-gcp-diagram-lilac: #ede7f7;--df-gcp-diagram-lilac-grey: #e8eaf6;--df-gcp-diagram-grey: #eaedef;--df-gcp-header-grey: #e8eaed;--df-gcp-text-bg-light-grey: #f5f5f5;--df-gcp-text: #202124}pre{tab-size:2}</style>
 
 This guide provides all required setup steps to start using Dialogflow.
 
@@ -77,7 +74,7 @@ Set up authentication:
 3.  In the **Service account name** field, enter a name.
 4.  From the **Role** list, select **Project** > **Owner**.
 
-    <div class="note">**Note**: The **Role** field authorizes your service account to access resources. You can view and change this field later by using the [Cloud Console](https://console.cloud.google.com/). If you are developing a production app, specify more granular permissions than **Project > Owner**. For more information, see [granting roles to service accounts](https://cloud.google.com/iam/docs/granting-roles-to-service-accounts).</div>
+    >**Note**: The **Role** field authorizes your service account to access resources. You can view and change this field later by using the [Cloud Console](https://console.cloud.google.com/). If you are developing a production app, specify more granular permissions than **Project > Owner**. For more information, see [granting roles to service accounts](https://cloud.google.com/iam/docs/granting-roles-to-service-accounts).
 
 5.  Click **Create**. A JSON file that contains your key downloads to your computer.
 
