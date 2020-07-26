@@ -49,7 +49,7 @@ Briefly:
 
 1. The JSON key shoud be saved in the root folder of this project
    (the same as this README and the `client.py` file) and
-   called `google_key.json`. It shoud present the following fields:
+   called `client_key.json`. It shoud present the following fields:
 
    ```json
    {
@@ -228,6 +228,17 @@ example dataset we just saw we could have:
 
 ## Use [Botium](https://github.com/codeforequity-at/botium-connector-dialogflow) for identification accuracy
 
+To use Botium's nlp validation methods, we need a dedicated agent, for example:
+
+<img width="500" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/create_agent_kfold.png?raw=true">
+
+Then, as for the client, we need to create a Service Account fitting the
+newly created Dialogflow Agent and download the JSON key.
+
+The JSON key shoud be saved in the root folder of this project
+(the same as this README and the `client.py` file) and
+called `kfold_key.json`.
+
 ### Setting up Botium
 
 Requirements:
@@ -237,17 +248,32 @@ Requirements:
 
 We will need Botium CLI:
 
+> **!** To install node package globally use `sudo npm install -g PACKAGE`.
+> If you run `botium-cli` as a normal shell command, it fails if you don't
+> install the package (and thus the executable) globally.
+> To avoid this and install it locally anyway, run it from the `.bin` folder
+>
+> ```
+> node_modules/.bin/botium-cli [COMMAND]
+> ```
+
 ```
-npm install -g botium-cli
-npm install -g botium-connector-dialogflow
-botium-cli init
+npm install botium-cli
+npm install botium-connector-dialogflow
+node_modules/.bin/botium-cli init
 ```
+
+> It is possible replace the latest release of the connector with the latest changes from the Github repository:
+>
+> ```
+> npm install codeforequity-at/botium-connector-dialogflow#master
+> ```
 
 Then, create a file `botium.json` in the working directory and add the
 Google credentials for accessing your Dialogflow agent.
 This [article](https://chatbotsmagazine.com/3-steps-setup-automated-testing-for-google-assistant-and-dialogflow-de42937e57c6)
 shows how to retrieve all those settings
-(you can find them in the `google_key.json` file as well).
+(you can find them in the `client_key.json` and `kfold_key.json` files).
 
 ```json
 {
@@ -255,19 +281,30 @@ shows how to retrieve all those settings
     "Capabilities": {
       "PROJECTNAME": "<whatever>",
       "CONTAINERMODE": "dialogflow",
-      "DIALOGFLOW_PROJECT_ID": "<google project id>",
-      "DIALOGFLOW_CLIENT_EMAIL": "<service credentials email>",
-      "DIALOGFLOW_PRIVATE_KEY": "<service credentials private key>"
+      "DIALOGFLOW_PROJECT_ID": "<google CLIENT project id>",
+      "DIALOGFLOW_CLIENT_EMAIL": "<service CLIENT credentials email>",
+      "DIALOGFLOW_PRIVATE_KEY": "<service CLIENT credentials private key>",
+      "DIALOGFLOW_NLP_PROJECT_ID": "<google KFOLD VALIDATION project id>",
+      "DIALOGFLOW_NLP_CLIENT_EMAIL": "<service KFOLD VALIDATION credentials email>",
+      "DIALOGFLOW_NLP_PRIVATE_KEY": "<service KFOLD VALIDATION credentials private key>",
+      "RATELIMIT_USERSAYS_MINTIME": "<milliseconds between API requests>",
+      "RATELIMIT_USERSAYS_MAXCONCURRENT": 1
     }
   }
 }
 ```
 
+> If you have a Stadard Plan in DialogFlow, you have a limited number of queries
+> per minute. `RATELIMIT_USERSAYS_MINTIME` allows you to put a bottleneck on testing
+> in order to not exceed you quota (see
+> [this page](https://botium.atlassian.net/wiki/spaces/BOTIUM/pages/360603/Botium+Configuration+-+Capabilities#RATELIMIT_USERSAYS_MINTIME)
+> for further info).
+
 To check the configuration, run the emulator (Botium CLI required)
 to bring up a chat interface in your terminal window:
 
 ```
-botium-cli emulator
+node_modules/.bin/botium-cli emulator
 ```
 
 Now that botium setup is ready, it’s time to run the benchmark. The
@@ -287,8 +324,9 @@ We can extract the data - intents and utterances (user examples) -
 from our already-trained DialogFlow automatically:
 
 ```
-export GOOGLE_APPLICATION_CREDENTIALS="/path/to/google_key.json"
-botium-cli nlpextract --config botium.json --convos dataset_botium --verbose
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/client_key.json"
+mkdir dataset_botium
+node_modules/.bin/botium-cli nlpextract --config botium.json --convos dataset_botium --verbose
 ```
 
 This command will write several text files to the `dataset_botium` directory
@@ -312,7 +350,8 @@ the DialogFlow agent (with k=5, meaning one fifth is used for testing,
 four fifth are used for training):
 
 ```
-botium-cli nlpanalytics k-fold -k 5 --config botium.json
+export GOOGLE_APPLICATION_CREDENTIALS="/path/to/kfold_key.json"
+node_modules/.bin/botium-cli nlpanalytics k-fold -k 5 --config botium.json --convos dataset_botium
 ```
 
 Botium will create a separate DialogFlow agent workspace for all test runs

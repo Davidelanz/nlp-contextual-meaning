@@ -6,10 +6,16 @@ docs/_build/
 
 logs/
 dataset_json/
-dataset_botium/
-node_modules/
 
 botium.json
-google_key.json
+client_key.json
+kfold_key.json
+
+dataset_botium/
+botiumwork/
+node_modules/
 package-lock.json
 
+
+
+give_me_a_picture.convo.txt

@@ -26,13 +26,13 @@ class Agent():
 
         # Set environment variable
         os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = \
-            os.getcwd() + "/google_key.json"
+            os.getcwd() + "/client_key.json"
         logging.debug("env variable GOOGLE_APPLICATION_CREDENTIALS={}".format(
             os.environ['GOOGLE_APPLICATION_CREDENTIALS']
         ))
 
         # Load project_id from authorization key
-        key_file = "google_key.json"
+        key_file = "client_key.json"
         logging.debug(f"loading project_id from {key_file}")
         with open(key_file) as f:
             key = json.load(f)
