@@ -10,9 +10,25 @@
 
 ---
 
-Website: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
+**Website**: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
 **Documentation**: [nlp-contextual-meaning.rtfd.io](https://nlp-contextual-meaning.readthedocs.io/)
+
+---
+
+## References
+
+- Lanza, Menicatti, Sgorbissa.
+  "Abductive Recognition of Context-dependent
+  Utterances in Human-robot Interaction,'' in _2020 IEEE/RSJ International_
+  _Conference on Intelligent Robots and Systems (IROS)_, Las Vegas, USA.
+
+- Lanza.
+  "Context-dependent meanings recognition in human-robot interaction'',
+  _Bachelor's Thesis_, University of Genoa, 2018
+  (**in italian**)
+  [[pdf](https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/references/Lanza2018_BachelorThesis_IT.pdf)]
+
 
 ---
 
@@ -299,6 +315,8 @@ shows how to retrieve all those settings
 > in order to not exceed you quota (see
 > [this page](https://botium.atlassian.net/wiki/spaces/BOTIUM/pages/360603/Botium+Configuration+-+Capabilities#RATELIMIT_USERSAYS_MINTIME)
 > for further info and [this issue](https://github.com/codeforequity-at/botium-core/issues/540)).
+>
+> Here, we suggest `"RATELIMIT_USERSAYS_MINTIME": 10000` 
 
 To check the configuration, run the emulator (Botium CLI required)
 to bring up a chat interface in your terminal window:
@@ -371,15 +389,3 @@ K-Fold Round 1:
 > It is possible then to compare
 > the accuracies of these platform given a certain dataset.
 
-## References
-
-- Lanza, Menicatti, Sgorbissa.
-  "Abductive Recognition of Context-dependent
-  Utterances in Human-robot Interaction,'' in _2020 IEEE/RSJ International_
-  _Conference on Intelligent Robots and Systems (IROS)_, Las Vegas, USA.
-
-- Lanza.
-  "Context-dependent meanings recognition in human-robot interaction'',
-  _Bachelor's Thesis_, University of Genoa, 2018
-  (**in italian**)
-  [[pdf](https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/references/Lanza2018_BachelorThesis_IT.pdf)]
