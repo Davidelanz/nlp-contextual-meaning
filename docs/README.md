@@ -298,7 +298,7 @@ shows how to retrieve all those settings
 > per minute. `RATELIMIT_USERSAYS_MINTIME` allows you to put a bottleneck on testing
 > in order to not exceed you quota (see
 > [this page](https://botium.atlassian.net/wiki/spaces/BOTIUM/pages/360603/Botium+Configuration+-+Capabilities#RATELIMIT_USERSAYS_MINTIME)
-> for further info).
+> for further info and [this issue](https://github.com/codeforequity-at/botium-core/issues/540)).
 
 To check the configuration, run the emulator (Botium CLI required)
 to bring up a chat interface in your terminal window:
@@ -382,4 +382,4 @@ K-Fold Round 1:
   "Context-dependent meanings recognition in human-robot interaction'',
   _Bachelor's Thesis_, University of Genoa, 2018
   (**in italian**)
-  [[pdf](https://github.com/Davidelanz/nlp-contextual-meaning/references/Lanza2018_BachelorThesis_IT.pdf)]
+  [[pdf](https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/references/Lanza2018_BachelorThesis_IT.pdf)]
