@@ -381,7 +381,14 @@ for each of the 5 rounds and the total average over all rounds:
 
 ```
 ############# Summary #############
-K-Fold Round 1:
+K-Fold Round 1: Precision=0.6706 Recall=0.1074 F1-Score=0.1851 Tech.OK=333 Tech.Failures=0
+K-Fold Round 2: Precision=0.7984 Recall=0.1589 F1-Score=0.2650 Tech.OK=331 Tech.Failures=0
+K-Fold Round 3: Precision=0.5516 Recall=0.1229 F1-Score=0.2010 Tech.OK=247 Tech.Failures=80
+K-Fold Round 4: Precision=0.6618 Recall=0.1320 F1-Score=0.2201 Tech.OK=322 Tech.Failures=0
+K-Fold Round 5: Precision=0.5897 Recall=0.1155 F1-Score=0.1932 Tech.OK=281 Tech.Failures=34
+K-Fold Avg: Precision=0.6544 Recall=0.1273 F1-Score=0.2132
+Wrote output file k-fold.csv
+Wrote predictions output file k-fold-predictions.csv
 ```
 
 > Note that Botium supports
