@@ -2,7 +2,7 @@ import json
 import os
 
 # Load settings json file
-with open("settings.json") as settings_file:
+with open("settings.json", encoding='utf-8') as settings_file:
     settings = json.load(settings_file)
 
 DATASET_FILE = settings["dataset-file"]
@@ -14,12 +14,12 @@ DELIMITER = ";"
 def getFollowups(language, followup):
     followups = []
 
-    for followup_sentence in settings["dialogflow"]["followups"][language][followup]:
+    for sentence in settings["dialogflow"]["followups"][language][followup]:
         followups.append(
             {
                 "data": [
                     {
-                        "text": followup_sentence
+                        "text": sentence
                     }
                 ]
             }
@@ -40,7 +40,7 @@ def retrieveData():
     # Read the source .csv file
     current_dir = os.path.dirname(__file__)
     intents_path = os.path.join(current_dir, DATASET_FILE + ".csv")
-    with open(intents_path) as intent_file:
+    with open(intents_path, encoding='utf-8') as intent_file:
         content = intent_file.readlines()
 
     # Store data in a dictionary
@@ -63,8 +63,8 @@ def retrieveData():
             type = row[3]
             text = row[col]
 
-            if not intent == "":
-                if not intent in intent_list[language]:
+            if intent != "":
+                if intent not in intent_list[language]:
                     intent_list[language].append(intent)
                     intent_dict[language][intent] = {"parent": parent,
                                                      "isParent": is_parent,
@@ -72,18 +72,19 @@ def retrieveData():
                                                      "myPersonalId": [],
                                                      "answer": [],
                                                      "variable": []}
-                if not row[col] == "":
+                if row[col] != "":
                     intent_dict[language][intent][type].append(text)
                     # : add user-inputs and answers
                     if type == "user-input":
                         intent_ID = intent
-                        uinput_ID = str(
-                            len(intent_dict[language][intent][type])-1).zfill(3)
+                        uinput_ID = str(len(
+                            intent_dict[language][intent][type])-1).zfill(3)
                         ID = "%s-%s-%s" % (intent_ID, uinput_ID, language)
                         intent_dict[language][intent]["myPersonalId"].append(
                             ID)
 
-    # print json.dumps(intent_dict, sort_keys=True, indent=4, separators=(',', ': '))
+    print(json.dumps(intent_dict, sort_keys=True,
+                     indent=4, separators=(',', ': ')))
     return intent_dict
 # ------------------------------------------------------
 
@@ -95,13 +96,14 @@ def createJson(intent_dict):
         # Loop through intents
         for intent in intent_dict[language].keys():
             userSays = []
-            uploaded = []
+            # uploaded = []
 
-            # If the json file of the intent already exists, retrieve the user inputs first
+            # If the json file of the intent already exists, retrieve the
+            #  user inputs first
             intent_json = os.path.join(
                 INTENTS_FOLDER, language, intent + "_" + language + ".json")
             # if os.path.isfile(intent_json):
-            #   with open(intent_json) as json_file:
+            #   with open(intent_json, encoding='utf-8') as json_file:
             #     loaded_intent = json.load(json_file)
             #
             #   userSays = loaded_intent["userSays"]
@@ -114,7 +116,7 @@ def createJson(intent_dict):
             is_parent = intent_dict[language][intent]["isParent"]
             IDs = intent_dict[language][intent]["myPersonalId"]
             variables = intent_dict[language][intent]["variable"]
-            param_list = []
+            # param_list = []
             parameters = []
 
             for variable in variables:
@@ -228,11 +230,11 @@ def createJson(intent_dict):
             if not os.path.exists(dest_folder):
                 os.makedirs(dest_folder)
 
-            with open(intent_json, 'w') as myfile:
+            with open(intent_json, 'w', encoding='utf-8') as myfile:
                 json.dump(template, myfile)
 
 
 if __name__ == '__main__':
     intent_dictionary = retrieveData()
     createJson(intent_dictionary)
-    print(f"Intents converted to JSON")
+    print("Intents converted to JSON")
