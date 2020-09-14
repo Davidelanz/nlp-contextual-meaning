@@ -49,7 +49,7 @@ linguistic phenomena.
 
 1. [Getting Started](#getting-started)
     1. [Setting up DialogFlow](#setting-up-dialogflow)
-    1. [The `settings.json` file](#the-settingsjson-file)
+    1. [The settings.json file](#the-settingsjson-file)
     1. [Prepare the dataset](#prepare-the-dataset)
     1. [Run a demo](#run-a-demo)
 1. [Test the client](#test-the-client)
@@ -58,7 +58,8 @@ linguistic phenomena.
     1. [Setting up Botium](#setting-up-botium)
     1. [Prepare the dataset](#prepare-the-dataset-1)
     1. [Validate dataset](#validate-dataset)
----
+ 
+
 
 ## Getting started
 
