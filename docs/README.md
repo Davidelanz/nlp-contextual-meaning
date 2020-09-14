@@ -16,7 +16,20 @@
 
 ---
 
-## References
+Context-dependent meaning recognition in natural
+language utterances is one of the key problems of computational
+pragmatics. Abductive reasoning seems apt for modeling
+and understanding these phenomena. In fact, it presents
+observations through hypotheses, allowing us to understand
+subtexts and implied meanings without exact deductions. 
+Inspired by linguistics and philosophy of language studies, 
+we exploreed abductive reasoning and context modeling in 
+human-robot interaction.
+Here, we present the code we used to carry the case study,
+analyzing whether such a system could manage correctly these
+linguistic phenomena.
+
+**References**:
 
 - Lanza, Menicatti, Sgorbissa.
   "Abductive Recognition of Context-dependent
@@ -29,6 +42,22 @@
   (**in italian**)
   [[pdf](https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/references/Lanza2018_BachelorThesis_IT.pdf)]
 
+
+---
+
+## Contents
+
+1. [Getting Started](#getting-started)
+    1. [Setting up DialogFlow](#setting-up-dialogflow)
+    1. [The `settings.json` file](#the-settingsjson-file)
+    1. [Prepare the dataset](#prepare-the-dataset)
+    1. [Run a demo](#run-a-demo)
+1. [Test the client](#test-the-client)
+1. [Change the language](#change-the-language)
+1. [Use Botium for identification accuracy](#use-botium-for-identification-accuracy)
+    1. [Setting up Botium](#setting-up-botium)
+    1. [Prepare the dataset](#prepare-the-dataset-1)
+    1. [Validate dataset](#validate-dataset)
 ---
 
 ## Getting started
@@ -165,19 +194,17 @@ generated are in **Italian**, but the system can be easily adapted
 to other languages given a dataset as follows:
 
 <!--table-->
-
+```
 | INTENT NAME             | PARENT'S INTENT | IS PARENT |            | [LANGUAGE]            |
 | ----------------------- | --------------- | --------- | ---------- | --------------------- |
 | Default Fallback Intent |                 |           | answer     | [DEFAULT_ANSWER]      |
-| &#160;                  |                 |           |            |                       |
 | [INTENT_1]              |                 |           | user-input | [TRAINING_SENTENCE_1] |
 | [INTENT_1]              |                 |           | user-input | [TRAINING_SENTENCE_2] |
 | ...                     |                 |           | ...        | ...                   |
 | [INTENT_1]              |                 |           | user-input | [TRAINING_SENTENCE_N] |
-| &#160;                  |                 |           |            |                       |
 | [INTENT_2]              |                 |           | user-input | [TRAINING_SENTENCE_1] |
 | ...                     |                 |           | ...        | ...                   |
-
+```
 <!--endtable-->
 
 The dataset has to be stored in `.csv` format with `;` separator. For example:
@@ -374,6 +401,12 @@ node_modules/.bin/botium-cli nlpanalytics k-fold -k 5 --config botium.json --con
 Botium will create a separate DialogFlow agent workspace for all test runs
 and clean it up afterwards. The original workspace - if existing - won’t
 be affected.
+
+> :warning: **A problem occured with Botium CLI validation. 
+> An issue has been opened at
+> https://github.com/codeforequity-at/botium-core/issues/565 .
+> In here, we report the wrong validation results,
+> waiting for a fix in the validation process.**
 
 The benchmark takes some time, and the results are printed out when ready -
 for each of the 5 rounds and the total average over all rounds:
