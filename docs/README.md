@@ -3,9 +3,26 @@
     <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
   </a>
   <br>
+  <a href='https://frontend.code-inspector.com/public/project/13602/nlp-contextual-meaning/dashboard'>
+    <img src='https://www.code-inspector.com/project/13602/status/svg' alt='Code grade' />
+  </a>
+  <a href='https://frontend.code-inspector.com/public/project/13602/nlp-contextual-meaning/dashboard'>
+    <img src='https://www.code-inspector.com/project/13602/score/svg' alt='Code score' />
+  </a>
   <a href='https://nlp-contextual-meaning.readthedocs.io/en/latest/?badge=latest'>
     <img src='https://readthedocs.org/projects/nlp-contextual-meaning/badge/?version=latest' alt='Documentation Status' />
-  </a>
+  </a>  
+  <a href=''>
+    <img src='https://img.shields.io/badge/Python-3.6-Yellow' alt='Python version' />
+  </a>  
+  <a href='https://cloud.google.com/dialogflow/docs'>
+    <img src='https://img.shields.io/badge/DialogFlow_Service-ES-Orange' alt='DialogFlow version' />
+  </a>  
+  <a href='https://cloud.google.com/dialogflow/es/docs/reference/libraries/python'>
+    <img src='https://img.shields.io/badge/DialogFlow_API-Python_API_v2-Orange' alt='DialogFlow version' />
+  </a>  
+
+ 
 </p>
 
 ---
