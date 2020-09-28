@@ -1,6 +1,6 @@
 <p align="center"> 
   <a href='https://davidelanz.github.io/nlp-contextual-meaning/'>
-    <img width="200" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
+    <img width="620" src="https://github.com/Davidelanz/nlp-contextual-meaning/blob/master/images/logo.png?raw=true">
   </a>
   <br>
   <a href='https://frontend.code-inspector.com/public/project/13602/nlp-contextual-meaning/dashboard'>
