@@ -27,6 +27,15 @@
 
 ---
 
+<p align="center"> 
+  <b> IEEE IROS 2020 presentation 
+    <a href="https://www.iros2020.org/ondemand/episode?id=358&id2=Cognitive%20Human%20Robot%20Interaction">online</a>
+    until November 25th, 2020:</b><br>
+  <a href="https://www.iros2020.org/ondemand/episode?id=358&id2=Cognitive%20Human%20Robot%20Interaction">
+    <img width="230" src="https://www.iros2020.org/static/resources/logo.png" />
+   </a>
+</p>  
+
 **Website**: [davidelanz.github.io/nlp-contextual-meaning](https://davidelanz.github.io/nlp-contextual-meaning/)
 
 **Documentation**: [nlp-contextual-meaning.rtfd.io](https://nlp-contextual-meaning.readthedocs.io/)
