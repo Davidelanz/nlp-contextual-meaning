@@ -58,8 +58,9 @@ linguistic phenomena.
 **References**:
 
 - Lanza, Menicatti, Sgorbissa.
-  "Abductive Recognition of Context-dependent
-  Utterances in Human-robot Interaction,'' in _2020 IEEE/RSJ International_
+  ["Abductive Recognition of Context-dependent
+  Utterances in Human-robot Interaction''](https://ras.papercept.net/proceedings/IROS20/0358.pdf),
+  in _2020 IEEE/RSJ International_
   _Conference on Intelligent Robots and Systems (IROS)_, Las Vegas, USA.
 
 - Lanza.
