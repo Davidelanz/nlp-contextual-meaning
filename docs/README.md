@@ -40,26 +40,21 @@
 
 **Documentation**: [nlp-contextual-meaning.rtfd.io](https://nlp-contextual-meaning.readthedocs.io/)
 
+**Paper**: [Abductive Recognition of Context-dependent Utterances in Human-robot Interaction](https://doi.org/10.1109/IROS45743.2020.9341155)
+
 ---
 
-Context-dependent meaning recognition in natural
-language utterances is one of the key problems of computational
-pragmatics. Abductive reasoning seems apt for modeling
-and understanding these phenomena. In fact, it presents
-observations through hypotheses, allowing us to understand
-subtexts and implied meanings without exact deductions. 
-Inspired by linguistics and philosophy of language studies, 
-we exploreed abductive reasoning and context modeling in 
-human-robot interaction.
-Here, we present the code we used to carry the case study,
-analyzing whether such a system could manage correctly these
-linguistic phenomena.
+Context-dependent meaning recognition in natural language utterances is one of the fundamental problems of computational pragmatics. Abductive reasoning seems apt for modeling and understanding these phenomena. In fact, it presents observations through hypotheses, allowing us to understand subtexts and implied meanings without exact deductions.  
+
+Inspired by linguistics and philosophy of language studies,  we explored abductive reasoning and context modeling in human-robot interaction.
+
+Here, we present the code we used to carry the case study, analyzing whether such a system could manage correctly these linguistic phenomena.
 
 **References**:
 
 - Lanza, Menicatti, Sgorbissa.
   ["Abductive Recognition of Context-dependent
-  Utterances in Human-robot Interaction''](https://ras.papercept.net/proceedings/IROS20/0358.pdf),
+  Utterances in Human-robot Interaction''](https://doi.org/10.1109/IROS45743.2020.9341155),
   in _2020 IEEE/RSJ International_
   _Conference on Intelligent Robots and Systems (IROS)_, Las Vegas, USA.
 
